@@ -82,7 +82,10 @@ const startProjects = _projects.filter((project) =>
     </div>
     
     <div v-if="showcaseProjects.length">
-      <h2 class="text-2xl font-bold mb-3">Showcases</h2>
+      <h2 class="text-2xl font-bold mb-3 mt-6 border-t-1 border-slate-500 pt-4">Showcases</h2>
+      <p class="mb-6">
+      These are various technologies that I have tried out and got running as simple demos, good to get you up to speed with a working example.
+      </p>
       <DisplayProject
         v-for="project in showcaseProjects"
         :key="project.suuid"
