@@ -1,7 +1,7 @@
 [
 	{
 		"projectIdCode": "start-nuxt-site-002",
-		"suuid": "S8xZGP",
+		"suuid": "XFfBcH",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "doing this",
@@ -12,7 +12,7 @@
 	},
 	{
 		"projectIdCode": "showcase-trpc",
-		"suuid": "AuKscG",
+		"suuid": "3XMzcv",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "build CRUD functionality",
@@ -23,7 +23,7 @@
 	},
 	{
 		"projectIdCode": "showcase-drizzle",
-		"suuid": "OldD7f",
+		"suuid": "3B5sGg",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Express CRUD API with Drizzle/SQLite + React client",
@@ -34,7 +34,7 @@
 	},
 	{
 		"projectIdCode": "showcase-remix",
-		"suuid": "yuHHOg",
+		"suuid": "fX7u0v",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Build a menu with pages",
@@ -45,7 +45,7 @@
 	},
 	{
 		"projectIdCode": "showcase-webpack-react",
-		"suuid": "qwRdvA",
+		"suuid": "T4mi9K",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create basic site that builds",
@@ -56,7 +56,7 @@
 	},
 	{
 		"projectIdCode": "showcase-webpack-react",
-		"suuid": "J8D3nr",
+		"suuid": "zkGaJS",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add images and CSS",
@@ -67,7 +67,7 @@
 	},
 	{
 		"projectIdCode": "showcase-webpack-react",
-		"suuid": "wV6sNT",
+		"suuid": "oydnHN",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Make publishable at Vercel",
@@ -78,7 +78,7 @@
 	},
 	{
 		"projectIdCode": "showcase-mobx-react",
-		"suuid": "jnqd27",
+		"suuid": "76hfay",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add employees and link",
@@ -89,7 +89,7 @@
 	},
 	{
 		"projectIdCode": "showcase-mobx-react",
-		"suuid": "xXOko0",
+		"suuid": "kIpaBn",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Create new template swap out easypeasy",
@@ -100,21 +100,10 @@
 	},
 	{
 		"projectIdCode": "showcase-shadcn-nextjs",
-		"suuid": "kPTgRm",
+		"suuid": "lHq04Y",
 		"stage": "upcoming",
 		"kind": "feature",
 		"title": "Add more shadcn components",
-		"beginDateTime": "",
-		"endDateTime": "",
-		"branch": "",
-		"rank": 2.5
-	},
-	{
-		"projectIdCode": "showcase-fastapi",
-		"suuid": "hQVVjN",
-		"stage": "upcoming",
-		"kind": "devfeature-reorganize-with-app-structure",
-		"title": "",
 		"beginDateTime": "",
 		"endDateTime": "",
 		"branch": "",

@@ -1,6 +1,5 @@
 
 
-
 	
 - PROJECT: start-astro-node-crud-001
 	- INFO
@@ -276,6 +275,14 @@
 		- live:: https://start-sveltekit-site-001.vercel.app
 		
 
+- PROJECT: start-react-site-dark-001
+	- INFO
+		- createdOn::2026-01-02
+		- createdBy::Antigravity with Gemini 3 Pro
+		- category::start;created by Antigravity/Gemini3Pro, dark theme, subtle animations, just frontend
+		- prompt::create a React site (newest version) with 6 pages, a file for each page, icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but minimalistic look in dark mode, nuanced colors and animations
+		- used Vite, I had to confirm 9-10 commands
+		- rank::4.99
 	
 	
 - PROJECT: showcase-trpc

@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "2SHtmb",
+		"suuid": "1CYG5v",
 		"idCode": "start-astro-node-crud-001",
 		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -16,7 +16,7 @@
 		]
 	},
 	{
-		"suuid": "K36D2V",
+		"suuid": "B1tDvD",
 		"idCode": "start-html-portfolio-001",
 		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
@@ -32,7 +32,7 @@
 		]
 	},
 	{
-		"suuid": "qW4Weh",
+		"suuid": "RAwVph",
 		"idCode": "start-angular-node-crud-001",
 		"title": "START-ANGULAR-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -48,7 +48,7 @@
 		]
 	},
 	{
-		"suuid": "PFao6E",
+		"suuid": "xqvbfq",
 		"idCode": "start-angular-node-crud-002",
 		"title": "START-ANGULAR-NODE-CRUD-002",
 		"status": "(fill in status)",
@@ -64,7 +64,7 @@
 		]
 	},
 	{
-		"suuid": "iTN6hu",
+		"suuid": "Yxoceu",
 		"idCode": "start-sveltekit-crud-002",
 		"title": "START-SVELTEKIT-CRUD-002",
 		"status": "(fill in status)",
@@ -80,7 +80,7 @@
 		]
 	},
 	{
-		"suuid": "HoieOr",
+		"suuid": "WdnGNv",
 		"idCode": "start-sveltekit-crud-001",
 		"title": "START-SVELTEKIT-CRUD-001",
 		"status": "works",
@@ -96,7 +96,7 @@
 		]
 	},
 	{
-		"suuid": "b6I4ia",
+		"suuid": "H92Tvo",
 		"idCode": "start-nuxt-crud-001",
 		"title": "START-NUXT-CRUD-001",
 		"status": "(fill in status)",
@@ -112,7 +112,7 @@
 		]
 	},
 	{
-		"suuid": "LJAAsH",
+		"suuid": "aBKa0K",
 		"idCode": "start-nextjs-crud-001",
 		"title": "START-NEXTJS-CRUD-001",
 		"status": "(fill in status)",
@@ -128,7 +128,7 @@
 		]
 	},
 	{
-		"suuid": "UdhXcn",
+		"suuid": "pgyfkn",
 		"idCode": "start-nuxt-site-002",
 		"title": "START-NUXT-SITE-002",
 		"status": "(fill in status)",
@@ -144,7 +144,7 @@
 		]
 	},
 	{
-		"suuid": "fhIKUD",
+		"suuid": "rO39eY",
 		"idCode": "start-nextjs-site-dark-001",
 		"title": "START-NEXTJS-SITE-DARK-001",
 		"status": "(fill in status)",
@@ -160,7 +160,7 @@
 		]
 	},
 	{
-		"suuid": "D6bHs5",
+		"suuid": "gpJDIt",
 		"idCode": "start-nextjs-site-002",
 		"title": "START-NEXTJS-SITE-002",
 		"status": "(fill in status)",
@@ -176,7 +176,7 @@
 		]
 	},
 	{
-		"suuid": "C4iSz0",
+		"suuid": "HT5EqG",
 		"idCode": "start-astro-site-001",
 		"title": "START-ASTRO-SITE-001",
 		"status": "usable",
@@ -192,7 +192,7 @@
 		]
 	},
 	{
-		"suuid": "sOU5WU",
+		"suuid": "AlEnyi",
 		"idCode": "start-angular-site-002",
 		"title": "START-ANGULAR-SITE-002",
 		"status": "usable",
@@ -208,7 +208,7 @@
 		]
 	},
 	{
-		"suuid": "fLJaHp",
+		"suuid": "Zq55X0",
 		"idCode": "start-nextjs-dashboard-001",
 		"title": "START-NEXTJS-DASHBOARD-001",
 		"status": "(fill in status)",
@@ -224,7 +224,7 @@
 		]
 	},
 	{
-		"suuid": "X5L4uz",
+		"suuid": "41NfCx",
 		"idCode": "start-nextjs-site-001",
 		"title": "START-NEXTJS-SITE-001",
 		"status": "(fill in status)",
@@ -240,7 +240,7 @@
 		]
 	},
 	{
-		"suuid": "SIhBWR",
+		"suuid": "uY2mvK",
 		"idCode": "start-sveltekit-site-001",
 		"title": "START-SVELTEKIT-SITE-001",
 		"status": "(fill in status)",
@@ -256,7 +256,23 @@
 		]
 	},
 	{
-		"suuid": "dsxP82",
+		"suuid": "xbQ2e9",
+		"idCode": "start-react-site-dark-001",
+		"title": "START-REACT-SITE-DARK-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-react-site-dark-001",
+		"live": "",
+		"mainImage": "/images/projects/start-react-site-dark-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3Pro, dark theme, subtle animations, just frontend"
+			}
+		]
+	},
+	{
+		"suuid": "2WjFEm",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
@@ -272,7 +288,7 @@
 		]
 	},
 	{
-		"suuid": "qGY8Ax",
+		"suuid": "plYune",
 		"idCode": "showcase-drizzle",
 		"title": "Drizzle Showcase",
 		"status": "(fill in status)",
@@ -288,7 +304,7 @@
 		]
 	},
 	{
-		"suuid": "MPpRsq",
+		"suuid": "PQnWJd",
 		"idCode": "showcase-remix",
 		"title": "Remix Showcase",
 		"status": "(fill in status)",
@@ -304,7 +320,7 @@
 		]
 	},
 	{
-		"suuid": "2NjScK",
+		"suuid": "8u7eR0",
 		"idCode": "showcase-webpack-react",
 		"title": "Webpack Showcase",
 		"status": "(fill in status)",
@@ -320,7 +336,7 @@
 		]
 	},
 	{
-		"suuid": "Lo87NM",
+		"suuid": "Bbt9pE",
 		"idCode": "showcase-mobx-react",
 		"title": "MobX Showcase",
 		"status": "(fill in status)",
@@ -336,7 +352,7 @@
 		]
 	},
 	{
-		"suuid": "QTbudM",
+		"suuid": "lK9PpR",
 		"idCode": "showcase-shadcn-nextjs",
 		"title": "Shadcn Showcase",
 		"status": "(fill in status)",
@@ -350,16 +366,5 @@
 				"shortInfo": "got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind"
 			}
 		]
-	},
-	{
-		"suuid": "ago8aK",
-		"idCode": "showcase-fastapi",
-		"title": "SHOWCASE-FASTAPI",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-fastapi",
-		"live": "",
-		"mainImage": "",
-		"categories": []
 	}
 ]

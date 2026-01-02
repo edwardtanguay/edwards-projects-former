@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "K6bswW",
+		"suuid": "euT23t",
 		"idCode": "start-astro-node-crud-001",
 		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -16,7 +16,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "6l7Hiy",
+				"suuid": "wQm5UK",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -65,7 +65,7 @@
 		]
 	},
 	{
-		"suuid": "syTd2t",
+		"suuid": "SGPEK5",
 		"idCode": "start-html-portfolio-001",
 		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
@@ -81,7 +81,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "RMkSDt",
+				"suuid": "TqPlaa",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -110,7 +110,7 @@
 		]
 	},
 	{
-		"suuid": "yvzoyq",
+		"suuid": "7hri4q",
 		"idCode": "start-angular-node-crud-001",
 		"title": "START-ANGULAR-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -126,7 +126,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "pofY4s",
+				"suuid": "dPFb0E",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -165,7 +165,7 @@
 		]
 	},
 	{
-		"suuid": "3Or9tZ",
+		"suuid": "rTX7GP",
 		"idCode": "start-angular-node-crud-002",
 		"title": "START-ANGULAR-NODE-CRUD-002",
 		"status": "(fill in status)",
@@ -181,7 +181,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "u74ejQ",
+				"suuid": "aEIsE7",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -245,7 +245,7 @@
 		]
 	},
 	{
-		"suuid": "Mfx2x3",
+		"suuid": "v38XDq",
 		"idCode": "start-sveltekit-crud-002",
 		"title": "START-SVELTEKIT-CRUD-002",
 		"status": "(fill in status)",
@@ -261,7 +261,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "HK5Cbm",
+				"suuid": "26FCTm",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -315,7 +315,7 @@
 		]
 	},
 	{
-		"suuid": "nCdmQT",
+		"suuid": "2XxNAt",
 		"idCode": "start-sveltekit-crud-001",
 		"title": "START-SVELTEKIT-CRUD-001",
 		"status": "works",
@@ -331,7 +331,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "ZKqqzm",
+				"suuid": "JuUwF7",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -410,7 +410,7 @@
 		]
 	},
 	{
-		"suuid": "ibBE0T",
+		"suuid": "ClpyUo",
 		"idCode": "start-nuxt-crud-001",
 		"title": "START-NUXT-CRUD-001",
 		"status": "(fill in status)",
@@ -426,7 +426,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "UlJvPy",
+				"suuid": "pO0dxZ",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -525,7 +525,7 @@
 		]
 	},
 	{
-		"suuid": "rMJ97r",
+		"suuid": "BPak60",
 		"idCode": "start-nextjs-crud-001",
 		"title": "START-NEXTJS-CRUD-001",
 		"status": "(fill in status)",
@@ -541,7 +541,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "oM3PFP",
+				"suuid": "zPdmA8",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -605,7 +605,7 @@
 		]
 	},
 	{
-		"suuid": "h8llqc",
+		"suuid": "iayheq",
 		"idCode": "start-nuxt-site-002",
 		"title": "START-NUXT-SITE-002",
 		"status": "(fill in status)",
@@ -621,7 +621,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "LymXgM",
+				"suuid": "xqkOhb",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -688,7 +688,7 @@
 				]
 			},
 			{
-				"suuid": "g54GAU",
+				"suuid": "arhAsK",
 				"kind": "feature",
 				"title": " doing this",
 				"outlineItems": [
@@ -707,7 +707,7 @@
 		]
 	},
 	{
-		"suuid": "U0O46F",
+		"suuid": "Zc5K9W",
 		"idCode": "start-nextjs-site-dark-001",
 		"title": "START-NEXTJS-SITE-DARK-001",
 		"status": "(fill in status)",
@@ -723,7 +723,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "PXiPYa",
+				"suuid": "dVvQQM",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -762,7 +762,7 @@
 		]
 	},
 	{
-		"suuid": "0Sx8nk",
+		"suuid": "VceQkq",
 		"idCode": "start-nextjs-site-002",
 		"title": "START-NEXTJS-SITE-002",
 		"status": "(fill in status)",
@@ -778,7 +778,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "cDNxwI",
+				"suuid": "1yaaGw",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -882,7 +882,7 @@
 		]
 	},
 	{
-		"suuid": "yKgJLz",
+		"suuid": "U5x73d",
 		"idCode": "start-astro-site-001",
 		"title": "START-ASTRO-SITE-001",
 		"status": "usable",
@@ -898,7 +898,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "fxgHZ5",
+				"suuid": "rx8XeP",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1012,7 +1012,7 @@
 		]
 	},
 	{
-		"suuid": "40yVz9",
+		"suuid": "aiWq3c",
 		"idCode": "start-angular-site-002",
 		"title": "START-ANGULAR-SITE-002",
 		"status": "usable",
@@ -1028,7 +1028,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "4CTou5",
+				"suuid": "VXOhov",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1137,7 +1137,7 @@
 		]
 	},
 	{
-		"suuid": "dWQiDE",
+		"suuid": "zZCS6f",
 		"idCode": "start-nextjs-dashboard-001",
 		"title": "START-NEXTJS-DASHBOARD-001",
 		"status": "(fill in status)",
@@ -1153,7 +1153,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "BcDFcl",
+				"suuid": "dzDX4X",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1192,7 +1192,7 @@
 		]
 	},
 	{
-		"suuid": "WuZp7y",
+		"suuid": "WYnISQ",
 		"idCode": "start-nextjs-site-001",
 		"title": "START-NEXTJS-SITE-001",
 		"status": "(fill in status)",
@@ -1208,7 +1208,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "kEXo8k",
+				"suuid": "jxMMA3",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1252,7 +1252,7 @@
 		]
 	},
 	{
-		"suuid": "FKnMAY",
+		"suuid": "xH8P8T",
 		"idCode": "start-sveltekit-site-001",
 		"title": "START-SVELTEKIT-SITE-001",
 		"status": "(fill in status)",
@@ -1268,7 +1268,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "luZePM",
+				"suuid": "CKph2u",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1322,7 +1322,62 @@
 		]
 	},
 	{
-		"suuid": "oRqHq6",
+		"suuid": "vASSKM",
+		"idCode": "start-react-site-dark-001",
+		"title": "START-REACT-SITE-DARK-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-react-site-dark-001",
+		"live": "",
+		"mainImage": "/images/projects/start-react-site-dark-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3Pro, dark theme, subtle animations, just frontend"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "WqLuwV",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "createdOn::2026-01-02",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "createdBy::Antigravity with Gemini 3 Pro",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::start;created by Antigravity/Gemini3Pro, dark theme, subtle animations, just frontend",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "prompt::create a React site (newest version) with 6 pages, a file for each page, icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but minimalistic look in dark mode, nuanced colors and animations",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "used Vite, I had to confirm 9-10 commands",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "rank::4.99",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "t4nYzn",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
@@ -1338,7 +1393,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "8F0vQw",
+				"suuid": "BbQ6Vy",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1370,7 +1425,7 @@
 				]
 			},
 			{
-				"suuid": "gGLSxp",
+				"suuid": "0SEdxe",
 				"kind": "feature",
 				"title": " build CRUD functionality",
 				"outlineItems": []
@@ -1378,7 +1433,7 @@
 		]
 	},
 	{
-		"suuid": "F5dJPc",
+		"suuid": "AVDUAd",
 		"idCode": "showcase-drizzle",
 		"title": "Drizzle Showcase",
 		"status": "(fill in status)",
@@ -1394,7 +1449,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "AJ6ylf",
+				"suuid": "xOHSto",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1426,7 +1481,7 @@
 				]
 			},
 			{
-				"suuid": "wBAm4n",
+				"suuid": "rICqoo",
 				"kind": "feature",
 				"title": " Express CRUD API with Drizzle/SQLite + React client",
 				"outlineItems": [
@@ -1455,7 +1510,7 @@
 		]
 	},
 	{
-		"suuid": "QzshV5",
+		"suuid": "25zDTh",
 		"idCode": "showcase-remix",
 		"title": "Remix Showcase",
 		"status": "(fill in status)",
@@ -1471,7 +1526,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "4IA6uN",
+				"suuid": "OJoODp",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1498,7 +1553,7 @@
 				]
 			},
 			{
-				"suuid": "LjjeJJ",
+				"suuid": "Kityuy",
 				"kind": "feature",
 				"title": " Build a menu with pages",
 				"outlineItems": []
@@ -1506,7 +1561,7 @@
 		]
 	},
 	{
-		"suuid": "opm0Az",
+		"suuid": "fNkPb6",
 		"idCode": "showcase-webpack-react",
 		"title": "Webpack Showcase",
 		"status": "(fill in status)",
@@ -1522,7 +1577,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "j2OvWU",
+				"suuid": "e1myL5",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1544,7 +1599,7 @@
 				]
 			},
 			{
-				"suuid": "RscXvw",
+				"suuid": "xCKeN1",
 				"kind": "feature",
 				"title": " Create basic site that builds //2025-10-13 19:33:15..2025-10-13 20:58:23",
 				"outlineItems": [
@@ -1566,7 +1621,7 @@
 				]
 			},
 			{
-				"suuid": "c5cNft",
+				"suuid": "GAJ2WT",
 				"kind": "feature",
 				"title": " Add images and CSS",
 				"outlineItems": [
@@ -1578,7 +1633,7 @@
 				]
 			},
 			{
-				"suuid": "PsQmTr",
+				"suuid": "FZYJnF",
 				"kind": "feature",
 				"title": " Make publishable at Vercel",
 				"outlineItems": []
@@ -1586,7 +1641,7 @@
 		]
 	},
 	{
-		"suuid": "u4McRI",
+		"suuid": "X3ZEih",
 		"idCode": "showcase-mobx-react",
 		"title": "MobX Showcase",
 		"status": "(fill in status)",
@@ -1602,7 +1657,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "h5Oc6G",
+				"suuid": "ittXYP",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1624,7 +1679,7 @@
 				]
 			},
 			{
-				"suuid": "SMkO0x",
+				"suuid": "6jwuad",
 				"kind": "feature",
 				"title": " Add employees and link",
 				"outlineItems": [
@@ -1641,7 +1696,7 @@
 				]
 			},
 			{
-				"suuid": "ExuBRX",
+				"suuid": "BLMhOX",
 				"kind": "feature",
 				"title": " Create new template swap out easypeasy",
 				"outlineItems": []
@@ -1649,7 +1704,7 @@
 		]
 	},
 	{
-		"suuid": "mF8pbU",
+		"suuid": "JIIzHF",
 		"idCode": "showcase-shadcn-nextjs",
 		"title": "Shadcn Showcase",
 		"status": "(fill in status)",
@@ -1665,7 +1720,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "SKkwek",
+				"suuid": "5DrxtL",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1687,48 +1742,13 @@
 				]
 			},
 			{
-				"suuid": "WOjuwG",
+				"suuid": "a5Z9XN",
 				"kind": "feature",
 				"title": " Add more shadcn components",
 				"outlineItems": [
 					{
 						"indents": 2,
 						"line": "continue video (see techlanglearn)",
-						"marker": ""
-					}
-				]
-			}
-		]
-	},
-	{
-		"suuid": "w1SCTI",
-		"idCode": "showcase-fastapi",
-		"title": "SHOWCASE-FASTAPI",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/showcase-fastapi",
-		"live": "",
-		"mainImage": "",
-		"categories": [],
-		"projectItems": [
-			{
-				"suuid": "wzbRuJ",
-				"kind": "devfeature-reorganize-with-app-structure",
-				"title": "",
-				"outlineItems": [
-					{
-						"indents": 2,
-						"line": "look up best structure",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "change server.py to app/main.py",
-						"marker": ""
-					},
-					{
-						"indents": 2,
-						"line": "make run.py (see showcase-flask)",
 						"marker": ""
 					}
 				]
