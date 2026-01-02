@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "28kSYO",
+		"suuid": "K6bswW",
 		"idCode": "start-astro-node-crud-001",
 		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -16,7 +16,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "wTRoQo",
+				"suuid": "6l7Hiy",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -65,7 +65,7 @@
 		]
 	},
 	{
-		"suuid": "5Z6Msv",
+		"suuid": "syTd2t",
 		"idCode": "start-html-portfolio-001",
 		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
@@ -81,7 +81,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "NvZjvy",
+				"suuid": "RMkSDt",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -110,7 +110,7 @@
 		]
 	},
 	{
-		"suuid": "AiDIHG",
+		"suuid": "yvzoyq",
 		"idCode": "start-angular-node-crud-001",
 		"title": "START-ANGULAR-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -126,7 +126,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "YrHFuQ",
+				"suuid": "pofY4s",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -165,7 +165,7 @@
 		]
 	},
 	{
-		"suuid": "42sd3v",
+		"suuid": "3Or9tZ",
 		"idCode": "start-angular-node-crud-002",
 		"title": "START-ANGULAR-NODE-CRUD-002",
 		"status": "(fill in status)",
@@ -181,7 +181,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "NEfVvK",
+				"suuid": "u74ejQ",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -245,7 +245,7 @@
 		]
 	},
 	{
-		"suuid": "iR4CTl",
+		"suuid": "Mfx2x3",
 		"idCode": "start-sveltekit-crud-002",
 		"title": "START-SVELTEKIT-CRUD-002",
 		"status": "(fill in status)",
@@ -261,7 +261,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "YFPRBu",
+				"suuid": "HK5Cbm",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -315,7 +315,7 @@
 		]
 	},
 	{
-		"suuid": "XEvCSt",
+		"suuid": "nCdmQT",
 		"idCode": "start-sveltekit-crud-001",
 		"title": "START-SVELTEKIT-CRUD-001",
 		"status": "works",
@@ -331,7 +331,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "XNlB6I",
+				"suuid": "ZKqqzm",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -410,7 +410,7 @@
 		]
 	},
 	{
-		"suuid": "MOvXxx",
+		"suuid": "ibBE0T",
 		"idCode": "start-nuxt-crud-001",
 		"title": "START-NUXT-CRUD-001",
 		"status": "(fill in status)",
@@ -426,7 +426,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "KKqyxx",
+				"suuid": "UlJvPy",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -525,7 +525,7 @@
 		]
 	},
 	{
-		"suuid": "T6RX9l",
+		"suuid": "rMJ97r",
 		"idCode": "start-nextjs-crud-001",
 		"title": "START-NEXTJS-CRUD-001",
 		"status": "(fill in status)",
@@ -541,7 +541,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "UzKh2D",
+				"suuid": "oM3PFP",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -605,7 +605,7 @@
 		]
 	},
 	{
-		"suuid": "Gm8rIl",
+		"suuid": "h8llqc",
 		"idCode": "start-nuxt-site-002",
 		"title": "START-NUXT-SITE-002",
 		"status": "(fill in status)",
@@ -621,7 +621,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "4xpHKC",
+				"suuid": "LymXgM",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -688,7 +688,7 @@
 				]
 			},
 			{
-				"suuid": "4ebDqf",
+				"suuid": "g54GAU",
 				"kind": "feature",
 				"title": " doing this",
 				"outlineItems": [
@@ -707,7 +707,7 @@
 		]
 	},
 	{
-		"suuid": "Ayey3K",
+		"suuid": "U0O46F",
 		"idCode": "start-nextjs-site-dark-001",
 		"title": "START-NEXTJS-SITE-DARK-001",
 		"status": "(fill in status)",
@@ -723,7 +723,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "ptCE7d",
+				"suuid": "PXiPYa",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -762,7 +762,7 @@
 		]
 	},
 	{
-		"suuid": "zubg6o",
+		"suuid": "0Sx8nk",
 		"idCode": "start-nextjs-site-002",
 		"title": "START-NEXTJS-SITE-002",
 		"status": "(fill in status)",
@@ -778,7 +778,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "QcfqJe",
+				"suuid": "cDNxwI",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -882,7 +882,7 @@
 		]
 	},
 	{
-		"suuid": "WxL6u5",
+		"suuid": "yKgJLz",
 		"idCode": "start-astro-site-001",
 		"title": "START-ASTRO-SITE-001",
 		"status": "usable",
@@ -898,7 +898,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "kbuLAW",
+				"suuid": "fxgHZ5",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1012,7 +1012,7 @@
 		]
 	},
 	{
-		"suuid": "c6Wb1c",
+		"suuid": "40yVz9",
 		"idCode": "start-angular-site-002",
 		"title": "START-ANGULAR-SITE-002",
 		"status": "usable",
@@ -1028,7 +1028,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "Tx1yRK",
+				"suuid": "4CTou5",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1137,7 +1137,7 @@
 		]
 	},
 	{
-		"suuid": "f6HwVw",
+		"suuid": "dWQiDE",
 		"idCode": "start-nextjs-dashboard-001",
 		"title": "START-NEXTJS-DASHBOARD-001",
 		"status": "(fill in status)",
@@ -1153,7 +1153,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "tCKY2h",
+				"suuid": "BcDFcl",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1192,7 +1192,7 @@
 		]
 	},
 	{
-		"suuid": "ywhZU1",
+		"suuid": "WuZp7y",
 		"idCode": "start-nextjs-site-001",
 		"title": "START-NEXTJS-SITE-001",
 		"status": "(fill in status)",
@@ -1208,7 +1208,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "CNRuA9",
+				"suuid": "kEXo8k",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1252,7 +1252,7 @@
 		]
 	},
 	{
-		"suuid": "4FwTh1",
+		"suuid": "FKnMAY",
 		"idCode": "start-sveltekit-site-001",
 		"title": "START-SVELTEKIT-SITE-001",
 		"status": "(fill in status)",
@@ -1268,7 +1268,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "N72Nk2",
+				"suuid": "luZePM",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1322,7 +1322,7 @@
 		]
 	},
 	{
-		"suuid": "GtT3VT",
+		"suuid": "oRqHq6",
 		"idCode": "showcase-trpc",
 		"title": "tRPC Showcase",
 		"status": "(fill in status)",
@@ -1338,7 +1338,7 @@
 		],
 		"projectItems": [
 			{
-				"suuid": "GTn7Ds",
+				"suuid": "8F0vQw",
 				"kind": "info",
 				"title": "(info)",
 				"outlineItems": [
@@ -1370,10 +1370,368 @@
 				]
 			},
 			{
-				"suuid": "c32qkM",
+				"suuid": "gGLSxp",
 				"kind": "feature",
 				"title": " build CRUD functionality",
 				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "F5dJPc",
+		"idCode": "showcase-drizzle",
+		"title": "Drizzle Showcase",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-drizzle",
+		"live": "uses SQLite in Node/Express backend, so couldn't publish to Vercel",
+		"mainImage": "/images/projects/showcase-drizzle.gif",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "example of using Drizzle to connect to a SQLite database, used by a Node/Express backend and React client"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "AJ6ylf",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "live::uses SQLite in Node/Express backend, so couldn't publish to Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase; example of using Drizzle to connect to a SQLite database, used by a Node/Express backend and React client",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Drizzle Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "wBAm4n",
+				"kind": "feature",
+				"title": " Express CRUD API with Drizzle/SQLite + React client",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "branch: feature-express-drizzle-sqlite-crud-server",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "api works",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "add react site from trpc project",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "make mock component: ManageEmployees.tsx",
+						"marker": "x"
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "QzshV5",
+		"idCode": "showcase-remix",
+		"title": "Remix Showcase",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-remix",
+		"live": "https://showcase-remix.vercel.app",
+		"mainImage": "/images/projects/showcase-remix.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "4IA6uN",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "category::showcase;I set up a quick Remix site just to try it out, which is now officially a \"React Router site\" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://showcase-remix.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "Showcase Remix",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Remix Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "LjjeJJ",
+				"kind": "feature",
+				"title": " Build a menu with pages",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "opm0Az",
+		"idCode": "showcase-webpack-react",
+		"title": "Webpack Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-webpack-react",
+		"live": "upcoming feature is to make it publishable at Vercel",
+		"mainImage": "/images/projects/showcase-webpack-react.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "example of using Webpack 5 with React/TypeScript"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "j2OvWU",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "category::showcase; example of using Webpack 5 with React/TypeScript",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live:: upcoming feature is to make it publishable at Vercel",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Webpack Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "RscXvw",
+				"kind": "feature",
+				"title": " Create basic site that builds //2025-10-13 19:33:15..2025-10-13 20:58:23",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "feature-create-build-site",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1",
+						"marker": "x"
+					},
+					{
+						"indents": 2,
+						"line": "starts with npm run dev",
+						"marker": "x"
+					}
+				]
+			},
+			{
+				"suuid": "c5cNft",
+				"kind": "feature",
+				"title": " Add images and CSS",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "PsQmTr",
+				"kind": "feature",
+				"title": " Make publishable at Vercel",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "u4McRI",
+		"idCode": "showcase-mobx-react",
+		"title": "MobX Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-mobx-react",
+		"live": "https://showcase-mobx-react.vercel.app",
+		"mainImage": "/images/projects/showcase-mobx-react.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "tried out MobX and quickly got a note-taking React app up and running online, MobX is very intuative and simple, probably my favorite now over Redux and easy-peasy Redux"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "h5Oc6G",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "title::MobX Showcase",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "category::showcase; tried out MobX and quickly got a note-taking React app up and running online, MobX is very intuative and simple, probably my favorite now over Redux and easy-peasy Redux",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::https://showcase-mobx-react.vercel.app",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "SMkO0x",
+				"kind": "feature",
+				"title": " Add employees and link",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "INFO",
+						"marker": ""
+					},
+					{
+						"indents": 3,
+						"line": "make RootStore that loads NoteStore and EmployeeStore",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "ExuBRX",
+				"kind": "feature",
+				"title": " Create new template swap out easypeasy",
+				"outlineItems": []
+			}
+		]
+	},
+	{
+		"suuid": "mF8pbU",
+		"idCode": "showcase-shadcn-nextjs",
+		"title": "Shadcn Showcase",
+		"status": "(fill in status)",
+		"mode": "stable",
+		"repo": "https://github.com/edwardtanguay/showcase-shadcn-nextjs",
+		"live": "http://showcase-shadcn-nextjs.vercel.app",
+		"mainImage": "/images/projects/showcase-shadcn-nextjs.jpg",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind"
+			}
+		],
+		"projectItems": [
+			{
+				"suuid": "SKkwek",
+				"kind": "info",
+				"title": "(info)",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "category::showcase; got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "live::http://showcase-shadcn-nextjs.vercel.app",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "title::Shadcn Showcase",
+						"marker": ""
+					}
+				]
+			},
+			{
+				"suuid": "WOjuwG",
+				"kind": "feature",
+				"title": " Add more shadcn components",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "continue video (see techlanglearn)",
+						"marker": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"suuid": "w1SCTI",
+		"idCode": "showcase-fastapi",
+		"title": "SHOWCASE-FASTAPI",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-fastapi",
+		"live": "",
+		"mainImage": "",
+		"categories": [],
+		"projectItems": [
+			{
+				"suuid": "wzbRuJ",
+				"kind": "devfeature-reorganize-with-app-structure",
+				"title": "",
+				"outlineItems": [
+					{
+						"indents": 2,
+						"line": "look up best structure",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "change server.py to app/main.py",
+						"marker": ""
+					},
+					{
+						"indents": 2,
+						"line": "make run.py (see showcase-flask)",
+						"marker": ""
+					}
+				]
 			}
 		]
 	}
