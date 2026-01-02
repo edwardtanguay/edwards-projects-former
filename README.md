@@ -1,4 +1,4 @@
-# edwards-projects
+# edwards-projects-former
 
 This site shows the starter sites I have created with AI tools:
 
