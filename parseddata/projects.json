@@ -1,208 +1,49 @@
 [
 	{
-		"suuid": "MQCVxi",
-		"idCode": "start-sveltekit-crud-002",
-		"title": "START-SVELTEKIT-CRUD-002",
+		"suuid": "jtfgXT",
+		"idCode": "start-astro-node-crud-001",
+		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
 		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-002",
+		"repo": "https://github.com/edwardtanguay/start-astro-node-crud-001",
 		"live": "",
-		"mainImage": "/images/projects/start-sveltekit-crud-002.jpg",
+		"mainImage": "/images/projects/start-astro-node-crud-001.jpg",
 		"categories": [
 			{
 				"idCode": "start",
-				"shortInfo": "created by Antigravity/Claude, works well"
+				"shortInfo": "created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity"
 			}
 		]
 	},
 	{
-		"suuid": "jY4z3o",
-		"idCode": "edwards-projects-former",
-		"title": "EDWARDS-PROJECTS-FORMER",
+		"suuid": "bBEHrl",
+		"idCode": "start-html-portfolio-001",
+		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
-		"mode": "active",
-		"repo": "https://github.com/edwardtanguay/edwards-projects-former",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-html-portfolio-001",
+		"live": "https://start-html-portfolio-001.vercel.app/",
+		"mainImage": "/images/projects/start-html-portfolio-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3, HTML/CSS/JS site with images, Gemini created the images, colorful and professional, you edit a JavaScript object, good for servers where you can just serve simple HTML files"
+			}
+		]
+	},
+	{
+		"suuid": "XTiSgT",
+		"idCode": "start-angular-node-crud-001",
+		"title": "START-ANGULAR-NODE-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-001",
 		"live": "",
-		"mainImage": "",
-		"categories": []
-	},
-	{
-		"suuid": "Bkjo4K",
-		"idCode": "edwards-projects",
-		"title": "Edward's Projects 2026",
-		"status": "I'm currently converting this site from a gray design in Nuxt to a modern dark design in Next.js.",
-		"mode": "active",
-		"repo": "https://github.com/edwardtanguay/edwards-projects",
-		"live": "https://edwards-projects.vercel.app",
-		"mainImage": "/images/projects/edwards-projects.jpg",
+		"mainImage": "/images/projects/start-angular-node-crud-001.jpg",
 		"categories": [
 			{
-				"idCode": "premier",
-				"shortInfo": "this site (the site you're viewing) shows all tech projects I'm working on with links to repositories, many useful showcases and templates"
-			}
-		]
-	},
-	{
-		"suuid": "iQ5Tuu",
-		"idCode": "comprehensible-output",
-		"title": "Comprehensible Input",
-		"status": "I currently use this site everyday, creating a story with AI based on phrases I have looked up the previous day in Google translate. I'm currently building in features to improve the site and the ability to learn languages more efficiently.",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/comprehensible-output",
-		"live": "https://comprehensible-output.vercel.app",
-		"mainImage": "/images/projects/comprehensible-output.jpg",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "I use this site to learn languages, I read stories aloud that AI creates for me based on Google Translate phrases I look up"
-			}
-		]
-	},
-	{
-		"suuid": "T6orWY",
-		"idCode": "techlanglearn003",
-		"title": "Tech/Language Learner",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/techlanglearn003",
-		"live": "",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "This is a site that I have been using for years to combine (1) learning tech skills, and (2) learning languages."
-			}
-		]
-	},
-	{
-		"suuid": "B2yXH5",
-		"idCode": "learncore",
-		"title": "Learn Core 2022",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/learncore",
-		"live": "https://learncore.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "parked",
-				"shortInfo": "a very old site that I used to learn Spanish, the only useful part to salvage is the color-conjugation chart"
-			}
-		]
-	},
-	{
-		"suuid": "Wa95UC",
-		"idCode": "moparser",
-		"title": "Multimedia Outline Parser",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "none",
-		"live": "",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "incubator",
-				"shortInfo": "this will be a class or hook (TypeScript) that I can include in the front or back in of Datapod projects to parse outline markdown text with images"
-			}
-		]
-	},
-	{
-		"suuid": "7DM0Ae",
-		"idCode": "datapod-tanguay-eu",
-		"title": "Datapod Central 2026",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-tanguay-eu",
-		"live": "https://datapod-tanguay-eu.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "premier",
-				"shortInfo": "you can find 10-15 versions of the Datapod concept on this page, with numerous backend languages and frontend frameworks"
-			}
-		]
-	},
-	{
-		"suuid": "dfUSCY",
-		"idCode": "langcore",
-		"title": "Language Core 2024",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/langcore",
-		"live": "https://langcore.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "transitional",
-				"shortInfo": "I used this site to learn Spanish in 2022 and Dutch in 2024, a useful site for learning verbs in these languages, but not currently being developed"
-			}
-		]
-	},
-	{
-		"suuid": "bVETx8",
-		"idCode": "interitalnotes",
-		"title": "Interactive Italian Notes",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/interitalnotes",
-		"live": "https://interitalnotes.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "parked",
-				"shortInfo": "A parked site that has the parsing algorithm of my main Italian notes file, so useful for that."
-			},
-			{
-				"idCode": "legacy",
-				"shortInfo": "An old site that has the parsing algorithm of my main Italian notes file, so will keep it around until I upgrade my central language site."
-			}
-		]
-	},
-	{
-		"suuid": "CvnvQq",
-		"idCode": "datapod-for-vite-react-core",
-		"title": "Datapod for TypeScript/React 2023",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/datapod-for-vite-react-core",
-		"live": "",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "legacy",
-				"shortInfo": "I stopped using this in 2025 but still use it to [demonstrate Datapod concepts](https://tanguay-eu.vercel.app/howtos/906) and it still creates the JSON file for my post-2023 [running site](https://edward-tanguay-eu.vercel.app/runs)."
-			}
-		]
-	},
-	{
-		"suuid": "KfQCXa",
-		"idCode": "etnotes",
-		"title": "Edward's Notes",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/etnotes",
-		"live": "https://etnotes.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "legacy",
-				"shortInfo": "this was a quick site I made to save notes in Datapod format, I still use it occasionally for e.g. trips I go on to have all info on my smart phone"
-			}
-		]
-	},
-	{
-		"suuid": "oyVdyC",
-		"idCode": "edward-tanguay-eu",
-		"title": "Edward's Personal Page",
-		"status": "(fill in status)",
-		"mode": "open",
-		"repo": "https://github.com/edwardtanguay/edward-tanguay-eu",
-		"live": "https://edward-tanguay-eu.vercel.app",
-		"mainImage": "",
-		"categories": [
-			{
-				"idCode": "transitional",
-				"shortInfo": "this is my personal site, mostly just links for me, a fitness exercise GIF, and a place to record runs I do with photos"
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards"
 			}
 		]
 	}

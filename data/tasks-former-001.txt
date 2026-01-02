@@ -1,0 +1,2230 @@
+
+
+
+	
+- PROJECT: start-astro-node-crud-001
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Antigravity with Gemini 3 Pro
+		- category::start;created by Antigravity/Gemini3, one of the best UX solutions for start crud site, by Antigravity
+		- prompt::create a Astro site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one "npm run dev" command
+		- 15 minutes finished, didn't ask me anything 
+		- works very nicely with modal on both desktop and mobile, could be the best UX yet
+		- one small issue: there is a "ml>" on the bottom left of the screen
+		- rank::4.99
+
+
+
+- PROJECT: start-html-portfolio-001
+	- INFO
+		- category::start;created by Antigravity/Gemini3, HTML/CSS/JS site with images, Gemini created the images, colorful and professional, you edit a JavaScript object, good for servers where you can just serve simple HTML files
+		- prompt::create an HTML/CSS/JS website that gets its data from an imported file data.js which has projects items that have a slug, title, description and loads an image from /images/<slug>.jpg, the site should look professional, colorful but not too flashy, use subtle icons, its main purpose is to show projects with image/title/description that the	user can click on to go look at the project, it should be clear what they have to click on, desktop and mobile views should look different but both easy to navigate
+		- live::https://start-html-portfolio-001.vercel.app/
+		- rank::4.78
+
+
+	
+- PROJECT: start-angular-node-crud-001
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Antigravity with Gemini 3 Pro
+		- category::start;created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards
+		- rank::4.56
+		- prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one "npm run dev" command
+		- finished
+	
+	
+	
+```END
+	
+	
+- PROJECT: start-angular-node-crud-002
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Cursor
+		- category::start;created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll
+		- rank::3.9
+		- prompt::create a Angular site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend Node/Express server, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate, the Node/Express server and Angular can be started simultaneously with one "npm run dev" command
+		- is using python to change files
+		- finished in 20 minutes
+		- put node on 4000, angular on 4200
+		- problem: Tailwind isn't working, I think you set it up for Tailwind 3, but Tailwind 4 is installed
+			- it responded: Get Cursor Pro for more Agent usage, unlimited Tab, and more.
+		- Antigravity fixed the problem on the third attempt with Gemini 3 Pro
+		
+	
+	
+- PROJECT: start-sveltekit-crud-002
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Antigravity with Claude Sonnet 4.5
+		- category::start;created by Antigravity/Claude, works well
+		- rank::4.82
+		- prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate
+		- showed me a plan "7 fields, cards for mobile", I wrote "sounds good"
+		- was finished far before Cursor on this task
+		- had to fix "fs" typescript errors
+		- works well
+		
+	
+	
+	
+- PROJECT: start-sveltekit-crud-001
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Cursor
+		- category::start;created by Cursor, has odd way to edit with a form that is always visible
+		- rank::4.34
+		- prompt::create a SvelteKit site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone, use icons where appropriate
+		- is "exploring new SvelteKit setup methods
+			- npx degit ...
+		- doing a lot of environment observiation, ls, pwd
+		- did git clone --depth 1
+		- Cursor asks a lot more for confirmation
+		- it said, "user aborted request", although I didn't
+		- npm run dev get Error 500
+			- asked it to fix
+		- status::works
+		
+
+
+	
+	
+	
+- PROJECT: start-nuxt-crud-001
+	- INFO
+		- createdOn::2025-11-28
+		- createdBy::Antigravity with Gemini 3 Pro
+		- category::start;created by Antigravity/Gemini3, everything works
+		- rank::4.88
+		- prompt::create a Nuxt 4 site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone
+		- had to confirm 4-5 times, it never seemed to give a notification, so you have to monitor it
+		- finished in 20 minutes
+		- had a typescript issue in db.ts with importing fs and path
+			- asked to fix them
+			- it installed @types/node, fixed
+		- when I click add or edit, the page disappears
+			- asked agent to fix it
+			- it opened the browser and started testing it
+				- says: navigate to http://localhost:3000. Wait for load. Click 'Add Employee'. Wait 2 seconds. Capture a screenshot of the page. Check browser console for errors and return them.
+		- now when I click add or edit, it shows a dimmed page with a form that I can't edit
+			- asked agent to fix it
+			- it fixed it
+		- everything works
+	
+	
+- PROJECT: start-nextjs-crud-001
+	- INFO
+		- createdOn::2025-11-27
+		- createdBy::Antigravity with Gemini 3 Pro
+		- category::start;created with Antigravity/Gemini3, decent
+		- rank::4.87
+		- prompt: create a Next.js site with one page that displays employee records from a JSON file, it enables the user to create, edit, delete, sort and search employees, the employees are stored in a JSON file and CRUD calls are made to backend API routes, the employee records have 7 fields of type string, number and date, the site has TypeScript, Tailwind 4, and a professional but reduced look with light gray, the site is responsive and cleverly solves horizonal scrolling of all fields in mobile view so that it is easy to edit records on a smartphone
+		- I let it work for about 20 minutes, had to attend it 3-4 times
+		- it brought up the browser and was active with it
+		- after 20 minutes it seemed finished
+		- tried to start it "npm run dev", it said: Unable to acquire lock at C:\edward\projects\starts\start-nextjs-crud-001\.next\dev\lock, is another instance of next dev running?
+			- I closed the browser it had open but it still got the error
+			- I deleted the .next directory
+			
+	
+- PROJECT: start-nuxt-site-002
+	- INFO
+		- createdOn::2025-11-27
+		- createdBy::Antigravity with Claude Sonnet 4.5
+		- category::start;created by Antigravity/Claude, nice UX, mobile has smooth fade
+		- prompt: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- you answer prompt questions in the window
+		- it noticed that the site name already exists
+		- one time didn't send a notice, was waiting for a confirmation from me
+		- antigravity was not able to install the Vue extension
+		- it ran out of credits on all of it's models, will have to wait four hours
+		- it didn't put directories in app, but perhaps that was a choice during installation
+		- live::https://start-nuxt-site-002.vercel.app
+		- rank::4.98
+	- FEATURE: doing this
+		- skdjfksdjf
+		- skdfjsdkfj
+		
+	
+	
+- PROJECT: start-nextjs-site-dark-001
+	- INFO
+		- createdOn::2025-12-03
+		- createdBy::Antigravity editor	using Gemini 3
+		- category::start;created by Antigravity/Gemini3, very usable, pleasant dark design
+		- rank::4.97
+		- prompt: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- after creating the site, I converted it to dark
+	
+	
+- PROJECT: start-nextjs-site-002
+	- INFO
+		- createdOn::2025-11-27
+		- createdBy::Antigravity editor	using Gemini 3
+		- category::start;created by Antigravity/Gemini3, very usable
+		- rank::4.93
+		- prompt: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- model selected was Gemini 3 Pro
+		- makes a nice, multi-level task list that it checks off
+		- but executed npx by itself
+		- but then asked if it could say "y" to get the latest version##thetasklist
+		- after about 10 minutes, it's still working, not moving too much, just started "creating pages"
+		- at the end, it "verifies responsive design"
+		- debugging some problem it found in the navbar 
+		- has some build error, "removed the navbar to isolate issue"
+		- needed me to confirm to delete node_modules
+		- was taking over 30 minutes
+		- if I went into another app, it would then notify me with a Windows notification if it needed me to approve something
+		- after 35 minutes, it "reached the limit of Gemini 3", so I choose Claude Sonnet 4.5
+		- finished, worked first time
+		- live::https://start-nextjs-site-002.vercel.app
+	
+	
+- PROJECT: start-astro-site-001
+	- INFO
+		- createdOn::2025-11-27
+		- createdBy::Cursor editor	
+		- category::start;created by Cursor, usuable
+		- prompt: create an Astro site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind 4, professional but reduced look with light gray	
+		- starts the same way as on the Angular site, executed the commands I had put on the allow list, worked well
+		- only a few types to click Run
+		- then "npm run build"
+		- then "git status -sb"
+		- then seems to be finished but without any notification
+		- so I ran "npm run dev"
+		- site works well, like Angular site
+		- but it has a small issue with the hamburger icon still being visible##hasoddissue
+			- so I gave it a screenshot and asked it to fix it
+			- seemed to fix it
+			- asked to run "npm run build"
+			- clicked "Keep all"
+			- I did "npm run dev" again and it was fixed##itfixedit
+		- nice experience
+		- live::https://start-astro-site-001.vercel.app
+		- status::usable
+		- rank::4.899
+			
+	
+	
+	
+- PROJECT: start-angular-site-002
+	- INFO
+		- createdOn::2025-11-27
+		- createdBy::Cursor editor
+		- category::start;created by Cursor, usable, quick mobile page switching
+		- prompt:: create a Angular site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- has an easy-to-use "allow list" for ls, pwd, etc
+		- shows notifications on Windows if you need to click "Run"
+		- seems to be installing Angular 18
+		- now running "generate" commands for each page
+		- adding to file with "cat", odd
+		- site works nicely
+		- good experience, it created the site in the background
+		- but afterward was running more "cat" commands and getting errors
+		- then asked to execute "npm run build" numerous times
+		- but finally finished and gave me a report of what it had created
+		- I typed "npm start"
+		- the site was much more built out, worked nice
+		- pushed to repo
+		- live::https://start-angular-site-002.vercel.app
+		- status::usable
+		- rank::4.985
+	
+	
+	
+- PROJECT: start-nextjs-dashboard-001
+	- INFO
+		- createdOn::2025-11-24
+		- createdBy::AI Studio
+		- category::start;created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable
+		- rank::4.96
+		- prompt:: create a Next.js site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- live::https://nextjs-dashboard-001-phi.vercel.app
+	
+		
+
+	
+- PROJECT: start-nuxt-site-001
+	- INFO
+		- createdOn::2025-11-24
+		- createdBy::LLM site
+		- category::start;created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design
+		- rank::4.989
+		- prompt:: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- live::https://start-nuxt-site-001.vercel.app
+		- minusNote:: site on smartphone blinks when you switch pages
+		
+
+		
+	
+	
+- PROJECT: start-nextjs-site-001
+	- INFO
+		- createdOn::2025-11-24
+		- createdBy::Claude website, free account
+		- category::start;created by Claude website by downloading all the pages, simply layout but good for a reduce site
+		- prompt:: create a Next.js site that I can download, with 6 pages that have icons in the menu, responsive with hamburger menu, TypeScript, professional but reduced look with light gray
+		- note:: had to then download each file but it was only about 15-20 in total, this has the nicest design even compared to Cursor which completes the whole site for you, this is actually a nice
+		- rank::4.9875
+		- live::https://start-nextjs-site-001.vercel.app
+
+
+	
+``doing	
+
+	
+- PROJECT: start-sveltekit-site-001
+	- INFO
+		- createdOn::2025-11-25 
+		- createdBy::Cursor editor free trial
+		- category::start;created by Cursor, very simple and smooth mobile UX
+		- rank::4.95
+		- prompt:: create a SvelteKit site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
+		- notes::a reduced site compared to Gemini Website, but professional icons, responsiveness, and have full file structure, took about 4 minutes
+		- onlineNotes::at Vercel, got: Unsupported Node.js version: v24.11.1, fix was: Vercel project dashboard, General, Settings, Node from 24.x to 22.x
+		- minusNote:: when switching page in mobile view, it shows the wrong page for a half second
+		- live:: https://start-sveltekit-site-001.vercel.app
+		
+
+	
+	
+- PROJECT: worknotes
+	- INFO
+		- parse a work file on dashboard that is searchable, etc.
+
+- PROJECT: database-showcase
+	- INFO
+		- a page that explains datapod
+		- first screen has interaactive text parse with example (like 2018 version)
+
+- PROJECT: template-react-responsive-001
+	- INFO
+		- title::React responsive site with 3 pages		
+	- FEATURE: make dropdown from hamburger menu more visible, e.g. light gray
+	- FEATURE: Upgrade React Router
+	- FEATURE: Convert to Mobx
+	- FEATURE: Smart Menu
+		- INFO
+			- if menu items don't fix, only show icons
+
+
+- .. PROJECT: showcase-symfony-006
+	- INFO
+		- category::showcase; Setting up a Symfony 8 site to refresh myself with the basics again
+		- title::Symfony Showcase
+		- live::not online yet, will publish at Hetzner
+	- .. FEATURE: Create a basic menu
+			
+- PROJECT: showcase-trpc
+	- INFO
+		- live::https://en.wikipedia.org/wiki/Modularity_of_mind
+		- has backend so couldn't publish to Vercel
+		- category::showcase; example of a React site set up with tRPC, back-to-front strong typing
+		- using this video: https://www.youtube.com/watch?v=UfUbBWIFdJs
+		- title::tRPC Showcase
+	- FEATURE: build CRUD functionality
+	
+	
+
+- PROJECT: showcase-drizzle
+	- INFO
+		- live::uses SQLite in Node/Express backend, so couldn't publish to Vercel
+		- category::showcase; example of using Drizzle to connect to a SQLite database, used by a Node/Express backend and React client
+		- Kyle video: https://www.youtube.com/watch?v=7-NZ0MlPpJA
+		- Kyle video: https://www.youtube.com/watch?v=cTu9-C2rd-0
+		- title::Drizzle Showcase
+	- FEATURE: Express CRUD API with Drizzle/SQLite + React client
+		- x branch: feature-express-drizzle-sqlite-crud-server
+		- x api works
+		- x add react site from trpc project
+		- x make mock component: ManageEmployees.tsx
+		
+		
+		
+
+- PROJECT: showcase-typo3
+	- INFO
+		- title::TYPO3 Showcase
+		- category::showcase;I got TYPO3 v13 installed on Ubuntu, learned my way around the admin panel, got TypoScript and Fluid templates working
+		- live::you have to set up TYPO3, the TypoScript is currently not in the repository 
+	- FEATURE: Convert backend TypoScript to files
+	- FEATURE: Put whole project in repository
+
+
+
+
+- PROJECT: template-node-html-001
+	- INFO
+		- repo::none
+		- use: https://html5up.net/phantom
+		- title::Node/HTML Template
+		- category::backlog; a new template I want to create, a professionally designed starter site for read-only portfolio-sites (for tanguay.info and art sites for friends)
+		- goal: a template that can easily be used to set up a site to show various projects with an image and then describive text/markdown etc.
+		- should use TypeScript in the background so it is easiest to set up (most developers have Node installed, more than Go or 
+		- one-step publish to Vercel
+		- connectedProject::tanguayinfo
+		- name has "001" in it since we might make many of these for slightly different layouts/designs, etc.
+	- BASE: Set up minimized generic site at repo/live
+		- .. set up locally
+
+
+
+- PROJECT: tanguayinfo
+	- INFO
+		- title::Tanguay.Info
+		- live::https://tanguay.info
+		- status::planning new site design with html5up.net template
+		- category::live;my main landing site, planning to redo the layout and content soon
+		- category::upcoming;planning to use the Node/HTML template to redo this site with a professionally designed responsive layout 
+		- make in project
+		- change about to contact
+		- change Projects and Contact
+		- make title link
+		- sections
+			- Marathon Running
+			- Software Development
+			- Language Learning
+			- Weltschmerz
+		- add 
+			- other topic that I forgot
+			- little prince: https://trilingual-little-prince.vercel.app
+			- dutch verbs: https://langcore.vercel.app/dutchVerbs
+			- spanish verbs: https://langcore.vercel.app/spanishVerbs
+			- italian parsing: https://interitalnotes.vercel.app/flashcards
+		- fix all images to make them clickable: white, more graphic than screenshot, or some kind of highlight
+		- add qr-code
+		- use this: template-node-html-001
+
+
+
+- PROJECT: showcase-remix
+	- INFO
+		- category::showcase;I set up a quick Remix site just to try it out, which is now officially a "React Router site" (npx create-react-router), it published automatically to Vercel, has server side features, interesting framework to check out
+		- live::https://showcase-remix.vercel.app
+		- Showcase Remix
+		- title::Remix Showcase
+	- FEATURE: Build a menu with pages 
+
+
+- ,, PROJECT: showcase-webpack-react
+	- INFO
+		- category::showcase; example of using Webpack 5 with React/TypeScript
+		- live:: upcoming feature is to make it publishable at Vercel
+		- title::Webpack Showcase
+	- FEATURE: Create basic site that builds //2025-10-13 19:33:15..2025-10-13 20:58:23
+		- x feature-create-build-site
+		- x video: https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=1
+		- x starts with npm run dev
+	- FEATURE: Add images and CSS
+		- video 2: https://www.youtube.com/watch?v=gtZs1BPgf6Y&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo&index=2
+	- FEATURE: Make publishable at Vercel
+	
+		 
+
+
+- ,, PROJECT: showcase-mobx-react
+	- INFO
+		- title::MobX Showcase
+		- category::showcase; tried out MobX and quickly got a note-taking React app up and running online, MobX is very intuative and simple, probably my favorite now over Redux and easy-peasy Redux
+		- live::https://showcase-mobx-react.vercel.app
+	- FEATURE: Add employees and link
+		- INFO
+			- make RootStore that loads NoteStore and EmployeeStore
+	- FEATURE: Create new template swap out easypeasy
+
+
+- ,, PROJECT: showcase-shadcn-nextjs
+	- INFO
+		- category::showcase; got shadcn/ui working in a Next.js site using the shadcn CLI, straight-forward and works well with Tailwind
+		- live::http://showcase-shadcn-nextjs.vercel.app
+		- title::Shadcn Showcase
+	- FEATURE: Add more shadcn components
+		- continue video (see techlanglearn)
+	
+	
+- ,, PROJECT: showcase-react-001
+	- INFO
+		- live::https://showcase-react-001.vercel.app
+		- category::showcase;a site started in summer 2025 in which I test out tools, libraries, patterns and concepts in React, e.g. useMemo, IntersectionObserver, ForwardRef, etc.
+		- title::React Tools and Patterns Showcase
+	
+
+
+- PROJECT: showcase-react-004
+	- INFO
+		- title::React Showcase 004
+		- category::showcase; started in November 2025
+		- 
+				
+	
+	
+
+
+
+
+
+
+
+- .. PROJECT: datapod-typescript-react
+	- FEATURE: Make frontend dynamic
+	- FEATURE: cleanup/refactor
+		- LineBlock to DpodLineBlock
+		- interface to type
+		- fix any
+		- debugSepare out
+	- FEATURE: Make responsive
+	- FEATURE: Click on item to show all data (add field)
+	- FEATURE: Make create button
+							
+
+
+- .. PROJECT: showcase-typescript-react			
+	- x FEATURE: Create frontend for employee CRUD //2025-09-30 20:39:08..2025-10-02 10:57:00
+		- x branch: feature-employee-crud-frontend
+		- x make page Crud
+		- x list as table with icons
+		- x do delete
+			- x make immediate
+			- x with "sure" step
+		- x do edit button
+			- x open area with mock text
+			- x refactor all parts to components in folder
+				- x refactor button areas
+				- x refactor fields
+				- x refactor editing area
+				- x refactor footer
+				- x put functions where needed
+			- x put logic inside
+			- x make mock form in component
+				- x component
+				- x create form
+				- x replace hover
+				- x get employee out of uiEmployee everywhere
+				- x create FormField
+					- x fix all errors
+				- x save on click
+				- x reset on cancel
+				- x replace as generic
+					- x send label
+					- x send type
+				- x fix last ts issue
+				- x do rest of fields on form
+					- x do FormFieldWholeNumber
+				- x change size of fields
+		- x add note to front about showcase
+		- x add todos from here to datapod for typescript
+	- FEATURE: make login with JWT
+		- add JWT and simple login
+		- set up login for CRUD page
+	- FEATURE: Implement testing with Vitest, Zod and Supertest
+		
+
+		
+
+		
+		
+
+- .. PROJECT: timemaster
+	- INFO
+		- backend python
+		- frontend Nuxt 4
+		- basedOn::datapod-python-nuxt
+	- ,, FEATURE: Parse timesheet in to summed categories
+		- INFO
+			- feature-parse-timesheet
+		- x branch
+		- .. create desired mock data
+			- x suuids out for now
+			- x fix frontend
+			- x take off click
+			- x show mock projects
+			- x create and show displayDate
+			- x convert snake to camel
+			- x create and show real displayDate
+			- .. create mock data that has colors for main projects and the rest is gray
+		
+		
+		
+		
+		
+		
+
+- PROJECT: datapod-python-nuxt
+
+
+
+
+- PROJECT: app-allnews
+
+
+- PROJECT: showcase-fastapi
+	- devfeature-reorganize-with-app-structure
+		- look up best structure
+		- change server.py to app/main.py
+		- make run.py (see showcase-flask)
+		
+
+
+
+- PROJECT: template-nuxt-001
+	- INFO
+		- repo: https://github.com/edwardtanguay/template-nuxt-001
+		- live: https://template-nuxt-001.vercel.app
+		- description: Nuxt 4 with simple menu, responsive for three menu items
+	
+	
+
+
+
+- PROJECT: showcase-flask-jinja
+	- INFO
+		- rank::4.94
+		- rankReason::has very good LinkedIn Learning tutorial in French to learn Jinja
+		- tutorial: https://www.linkedin.com/learning/l-essentiel-de-flask/installer-un-orm
+		
+- PROJECT: showcase-flask-api
+	- INFO
+		- watching: https://www.linkedin.com/learning/l-essentiel-de-flask
+
+- PROJECT: edwardtanguayeu
+	- https://chrishedges.podbean.com/?utm_source=substack&utm_medium=email
+
+
+
+- .. PROJECT: jobman
+	- .. feature-finish-dashboard-all-values //2025-08-16 17:56:53
+		- INFO
+			- show phases in row as overview before click
+			- list upcoming interviews
+			- list offers
+			- mark clearly as recruiter/company
+			- process INTERVIEW/2 and list as 1st interview, 2nd interview, etc.
+		- TODO			
+			- x click/open info area
+				- x add status and display it
+					- x fix phase first
+					- x display status
+				- x delete status and show rest
+			- x process and display notes, can be multiple
+				- x show all notes
+				- x correct all notes
+				- x fix: why doesn't it get these:
+					- x note:: very long application process, form difficult, had to verify e-mail, code didn't come
+					- x note:: start asap 
+				- x record multiple "note" items
+				- x correct again
+				- x display on frontend
+			- x notes and status with icons
+			- x list quickprops that weren't used, e.g. misspellings
+				- x process all rest
+					- x salary
+					- x kind to note
+					- x location
+					- x reduce url/rank
+			- x process formAnswer
+				- x show on frontend
+				- x make an array
+				- x display
+			- x catch these: "2025-08-18; dev; nnn" (actually process that one)
+			- x don't list future dates: UNFINISHED JOBAPP: 2025-08-20; dev; nnn
+				- x add warning icon
+			- x icon to top, see Axel Springer
+			- x process events
+				- x list out mock events
+				- x change mock events to real events
+					- x parse Event line in constructor
+					- x parse kind
+			- x put icon on top, see epixler
+			- .. style events
+				- x no icon, flex three, and font same
+				- x fix trim
+				- x "my response"
+				- x left align
+				- x right margin
+				- x fix far right icon
+				- x colors
+				- near envelope, put number of days
+				- fix long form answers, see: Senior Frontend Engineer - React.JS at F11
+				- fix gaps and margins for all combinations
+				- company company name with background highlighting
+	- feature-finish-phase-and-others
+			- change how phase is defined
+				- fix e-pixler
+			- implement "prediction::"
+	- feature-probably-rejection-more
+		- INFO
+			- anything a month ago or more is a "likely rejection" and counted as rejection
+			- track if teacher, project manager, developer
+	- feature-fixes
+		- catch: "- 2025-08-23 08:23:53"
+		- catch: dev; nnn with today's date
+	- feature-create-sections
+		- make sections: daily, active, recent activity
+	- feature-dev-refactoring
+		- datapod: describe quick props
+		- in scss, all tailwind if possible
+	- feature-info-page
+		- INFO
+			- put infos on info page for copying
+	- feature-create-new-properties
+		- INFO
+			- tech (multiple)
+			- url
+	- feature-create-search
+		- INFO
+			- full search
+			- company search
+	- feature-make-body-outline
+	- feature-write-tests
+	- feature-make-predictions
+		- INFO
+			- predict::4.3; way too much technology I don't know
+			- call it category: goodChance, longshot
+	- feature-make-tests-for-all-qtools
+		- INFO
+			- make tests for all qtools we have so far
+	- feature-create_config
+		- INFO
+			- put configs in one place
+			- e.g. app_test_mode
+	- feature-other-process-other-infos
+		- INFO
+			- salary
+			- rank (to number)
+			- note (can be multiple)
+			- kind: recruiter, company
+			 
+
+
+
+
+- PROJECT: techvideos
+	- VIDEO: Using Jupyter with Python
+		- link to GitHub: https://github.com/edwardtanguay/datapod-for-react-python-json/blob/main/dev/examples.ipynb
+		- vim
+		- Jupyter plugin in VSCode
+
+- PROJECT: datapod-for-python
+
+
+
+- PROJECT: langcore
+	- INFO
+		- resource images with text to search for them, e.g. "mio"
+		- rules for pronunciation
+		- phrases to know by heart
+		- items to collect ***
+			- es;rule;the word "dónde" (with an accent) is used in questions or exclamations, while "donde" (no accent) is used in statements
+			- it;rule;Im Gegensatz zum Deutschen gibt es keinen congiuntivo in der indirekten Rede
+
+
+
+
+
+- PROJECT: datapod-tools-css-layouts
+	- https://html5up.net/phantom
+
+- .. PROJECT: datapod-for-webpack-react
+	- .. BASE: Make base site
+
+- PROJECT: datapod-for-webpack
+	- devfeature-add-typescript
+	- devfix-resolve-warnings-on-watch
+	- devfeature-make-public-folder
+	- devresolve-css-images
+	- devimprove-dev-reload-better-experience
+
+- PROJECT: datapod-for-react-scala-json
+	- DEVFIX: fix history (there is an error with rebase)
+	- feature-complete-parsedata-command
+	- DEVFEATURE: add to datapod site
+
+- PROJECT: datapod-for-html-typescript-json
+	- devfeature-add-tailwind
+	- devfeature-add-json
+		- INFO
+			- convert JSON files to e.g. data.js that exports JavaScript objects
+			
+			
+- PROJECT: flashcard-central
+	- INFO
+		- flashcards
+			- win;screenshots;win-shift-s
+
+-.. PROJECT: datapod-for-react-ruby-json
+	- INFO
+		- install windows: https://rubyinstaller.org/downloads
+		- repo: https://github.com/edwardtanguay/test-ruby-scripts
+		- courses
+			- EN-2024: https://www.linkedin.com/learning/complete-guide-to-ruby/class-attributes?resume=false
+	- feature-implement-react-library
+		- INFO
+			- watch: https://www.youtube.com/watch?v=SppbtlpPZu4&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=6
+	- feature-add-graphic-to-readme
+		- merge to last
+	- feature-dpod-item-parsing	
+		- parse out block marker
+	- feature-outline-parser
+	- feature-hotfiles
+		- INFO
+			- work on it in vim
+			- when save, then trigger script (find solution for this)
+			- show half screen: 
+	- feature-flashcards-as-dpod-items	
+		- make Items.rb with properties needed
+		- parse and create JSON file
+		- make properties
+	- implement-advanced-dpod-items
+		- INFO
+			- make this a dashboard
+				- get info from techlanglern and other sites
+			- live examples
+				- runs
+				- compout: pronunciation.txt
+				- dpodcentral: tasks.tskplan.txt
+				- itnotes.txt (italian site)
+			- validation
+			- hot loading
+				- if file exists, create page
+				- if file doesn't exist, delete page
+			- frontend item types
+			- enable initials instead of names in dpod file, e.g. fc instead of flashcard
+			- batch import
+			- edit on frontend via API
+			- flexible Schema (build if not there, repair if not complete)
+	- devrefactor-rename-smartline-and-smartblock
+		- INFO
+			- DEVREFACTOR: Rename SmartLine and SmartBlock
+			- to something like
+				- ParsedCodeFile
+				- ParsedCodeFileBlock
+				- ParsedCodeFileLine
+	- devrefactor-decide-on-tag-prefixes
+		- INFO
+			- DEVREFACTOR: Decide on tag prefixes for commits and rebase
+	- dev-setup-tests-in-npm
+		- INFO
+			- npm run test
+			- add to start
+	- dev-zip-backup-cli-command
+	- refactor-commands-all-cli-or-not
+	- feature-build-api-with-sinatra
+
+- PROJECT: antiechonews
+	- INFO
+		- terms
+			- José Valim - creator of Elixir
+			- Chris McCord - creator of Pheonix
+
+- PROJECT: datapod-for-react-elixir-json
+	- devrefactor-change-kebab-file-names-to-snake
+
+- PROJECT: Video: Learn to Use Git rebase and reflog
+	- nnn
+			
+
+- PROJECT: interitalnotes
+	- INFO
+		- TITLE: Interactive Italian Notes
+		- Python-React spawning project: https://github.com/edwardtanguay/datapod-for-react-python-json
+	- content-ten-flashcards
+		- nnn
+	- feature-add-ranking-and-sorting
+		- convert all ## to rank e.g. 4.3
+			- list sorted
+			- make light randomize
+			- display rank
+	- fix-make-all-names-snake-case
+	- feature-prompt-with-past-participles
+		- INFO
+			- put on same page
+	- feature-page-verb-practice
+		- INFO
+		- parse meanings of words in verb objects
+			- fields: verb, meaning
+		- add rank (1=don't need to learn, 5=need to learn)
+		- change verbs.json to objects
+			- fix prompt page
+			
+- PROJECT: Howto/Video "Ten Advanced Git Tips
+	- get from here: https://tanguay-eu.vercel.app/forays/332
+	
+- PROJECT: something-like-git
+	- INFO
+		- some kind of CLI like git that changes the state of files somewhere
+			- e.g. Datapod items
+			- use CLI syntax in "git add -p"
+		- perhaps build on degit:
+			- https://github.com/Rich-Harris/degit (see JavaScript API)
+			
+
+		
+- PROJECT: datapod-central
+	- INFO
+		- todos
+			- for repos, have component that lists out links to /commits, /branches, etc.
+				- perhaps even get information about them via the API
+			- periodical todos
+				- update node_modules on all dpods to reduce vulnerabilities
+			- three kinds of projects
+				- showcases
+					- messy, try out everything, playgrounds of features and tools
+				- templates
+					- templates to use for the base of sites
+				- dpods
+					- has data parsing features
+					- webpack that watches files and does the transformation on the fly with hot-reloading
+				- apps
+					- has some real purpose
+					- read-recorder: record reading of articles like
+						- https://www.accessibility-developer-guide.com
+						- https://uilicious.com/blog/accessibility-testing-interview-questions/#questions-about-common-definitions
+						- with notes
+			- responsive menu
+				- https://www.alp-institut.de/aktuelle-befragungen/mietspiegel-berlin-2026/
+			- url state
+				- use https://nuqs.dev
+			- create Datapod UI framework or design system
+			- for all datapods, update package.json/name to correct name
+			- redefine goal of Datapod: like screenscraping, database is lightly formatted text
+			- watch folders
+				- after change and 3 seconds wait, reparse data
+		- goals
+			- CBI - central batch input
+				- go there, dump text, it gets parsed to the right site, e.g.
+					- fc; vim; close all tabs but current; :tabonly
+			- keep notes live on hetzner site so that working status is always reflected online ***
+		- in all datapods
+			- change backup npm script: create directory if doesn't exist
+			- standardize the subtitle: this site made with Python and Nuxt 4, see the code
+			- sophisticatedly responsive
+			- readmes standardized
+				- repo and live links
+		- html5 templates
+		- docmentation
+			- explain "dpod" in spawning sites
+			- git
+				- git commits, use present tense, imperative mood
+		- conventions
+			- name variables after their classes, e.g. a ProjectItem object is not called "item" or "project" but "projectItem"
+			- line variables ("::")
+				- title::
+				- idCode::
+		- concepts
+			- site-ready-to-go
+				- base site is completely generic "Info Site"
+				- if it is local, it asks you to customize it
+			- hot files ***
+				- edit file in vim
+				- when you have state that you want to public, save
+				- this creates an event which gets published
+			- external<Item>
+				- implies the expected shape of data coming from outside the site
+			- raw<Item>
+				- the actual data coming from outside the site
+		- terminology
+			- versioning
+				- use SemVer: https://semver.org
+				- SemVer allows:
+					- x, y, and z to be non-negative integers (0, 1, 2, ...) with no upper bound.
+					- So you can have versions like 3.27.104, 15.3.82, 99.125.7, etc.
+					- The only rules are:
+						- No leading zeroes (e.g. 01.2.3 is invalid).
+						- All parts must be integers.
+						- Valid: 0.1.0, 2.15.7, 10.34.99
+						- Invalid: 03.2.1, 1.2.beta, 1.0.0-rc.01 (leading zero)
+					- but it is common to have a preceding v
+						- `git tag v1.0.1`
+				- use tags and releases
+					- https://github.com/edwardtanguay/git-commands-showcase/tags
+			- take advantage of linux piping
+				- output text that can be processed with sed, awk, bash, etc. ***
+			- ParsedDpodFileLine
+				- created on the first pass through a text file
+				- basically a line from a text file
+				- but it can also be a multiline line, e.g. with [[ and ]] markers
+				- properties
+					- isMultiline, bool
+					- lines
+			- ParsedDpodFileBlock
+				- created on the second pass through a text file
+				- a collection of smartLines separated by "white line space"
+				- properties
+					- blockMarker
+					- smartLines
+			- ParsedDpodFile
+				- the result of "smart processing" a text file
+				- gets it ready for more nuanced parsing
+				- a collection of smartBlocks
+		- spawning projects
+			- tool to make backups of dpods and apps
+		- roadmap
+			- save array of objects in local storage and save the whole thing to backend, simple
+		- todos
+			- clean git history on all apps and dpods
+	- ORGANIZE: rename webpack datapods
+	- TASK: For all datapods, rename base branch from dev to main
+	- TASK: Fix all React sites so that the pages on mobile menu don't change order
+	- FEATURE: Modern Design
+		- INFO
+			- have AI create various designs, and build from that
+	
+
+- PROJECT: info-central
+	- INFO
+		- push notesdpod to repository
+		- ruby to learn for lewagon
+		- parse runs
+		- set up with datapod-for-react-python-json
+		- online but with password (env)
+		- time cruncher
+		- organizes all home howtos
+		- dashboard for everything, reads from others sites
+		
+
+
+- PROJECT: recenter-cicd-learning
+	- INFO
+		- cancel tkserv, second machine at Hetzner and bring tanguay.eu to Hetzner
+
+	
+- PROJECT: parse-itnotes-and-display-interactive
+
+	
+
+- datapodCentral
+	- INFOS
+		- GitHub flow
+		- emoticons to copy: https://emojicopy.com
+		- conventions
+			- choosing variable names
+				- in code explicit, otherwise natural language
+					- in code, rather more explicit than less explicit: 
+						- markerIdCode = "importPage"
+						- markerIdentifier = "##MARKER:importPage##"
+					- outside code, rather more natural than explicit, e.g. ##MARKER:importPage##
+					- MARKER
+			- pathAndFileName
+				- from root, e.g. "src/components/Nav.tsx"
+			- fileName
+				- e.g. "Nav.tsx"
+		- developer habits
+			- Git history that is orderly, readable and has commits that can be sensibly cherry picked
+		- qtools
+			- generic
+			- not Datapod-specific
+			- also published as qtools
+	- TASK: todos
+		- Backend with instructions for Render: https://github.com/edwardtanguay/datapod-for-splitstack-mern-backend
+		- Split stack LERN (L = lowdb): create datapod-for-splitstack-lern-backend
+	- TASK: give all tasks an idea, so you can have branch names like this
+		- bug/123/menu-issue
+		- feat/125/new-email-feature
+	- TASK: switch to Python, e.g. Flask or just a script
+	- TASK: enable site to read from tasks.tskplan.txt page
+		- transfer all othres as well into this format
+
+- .. PROJECT: oopHowtoAndVideo
+	- .. push base
+	
+	
+	
+- PROJECT: createOopHowto
+	- .. base howto and online
+		- tools/concepts
+			- use excalidraw
+			- sketches, diagrams 
+			- relatable analogies 
+			- live demos, running code 
+			- things that don't work, ask why, show solution
+			- pace and focus
+			- from general explanations to tangible
+			- additional resources: "this howto is linked in the show notes"
+			- realistic
+				- a class they can use, SmartFile, "I use this class in a framework that I wrote"
+
+- PROJECT: techvideochannel
+	- TASK: How to create, publish and use a pip package
+
+- PROJECT: hetznerhosting
+	- TASK: cancel second machine
+	- TASK: make tasks here
+
+- PROJECT: python_datapod
+	x TASK: improve package management // 2025-05-18 19:37:06
+		- x implement __init__.py file
+		- x finished: 2025-05-18 19:57:08
+
+- .. PROJECT: qtoolsaspippackage
+	- info
+		- set up qtools as a Python pip package
+	- x TASK: set up basic package like in python datapod: datapod_for_python // 2025-05-19 17:39:04
+	- x TASK: build a test pip package 
+		- x start/pause from template: qtools_for_python
+			- x try on ubuntu and pause
+		- x create et772_python_pip // 2025-05-19 17:45:23
+	- .. TASK: publish version 0.0.1 of qtools // 2025-05-19 17:44:10
+		- .. python dpod, make first version ready
+			- x two ready
+			- .. publishing
+			
+		
+		
+- PROJECT: tinfo
+	- add timestamp url
+	
+- PROJECT: pythonexpert
+	- TASK: on mac, create backup script in python to zip core
+	- TASK: on windows, script that updates tanguay-eu site including copying images, etc.
+
+- PROJECT: globalflashcard
+=====
+nl;pr. ruimte;(de:RAUM)-teh
+nl;pr. instructies;-tseez
+nl;pr. juist;YOWst
+ubuntu;change keyboard language;super+space
+intellij; expand the code window; double-click tab
+intellij; show git window; ALT-9
+intellij; make/show bookmark(s); F11, shift-F11
+intellij; attach keyboard shortcuts; settings, search, add
+intellij; reformat code; CTRL-ALT-L
+intellij; search everywhere; shift-shift
+intellij; rename variable; shift-F6
+vim; lowercase from cursor to end of line; gu$
+vim; close all tabs but current; :tabonly
+vim; force case-insensitive; /\cnnn
+vim; save quick; ZZ; same as :wq
+vim; two ways in vim to go to command line and back; :sh/exit, CTRL-Z/fg; fg=foreground
+vim; search with / case-sensitive; /Frontend\C
+=====
+
+- PROJECT: datapod-site
+	- TASK: content
+		- add idea: info site that you have to open up info areas, and this is saved to see if people read it
+
+- PROJECT: techlanglearn
+	- implement-gh-and-clean-history
+	- make-work-in-chrome
+
+
+
+		
+		
+		
+		
+		
+		
+		
+	- projects
+		- Datapod video
+	
+
+- PROJECT: inthub25
+	- x set up from template site
+		- x move current apps to edward/projects/dpods
+		- x move all open projects to edward/projects/apps
+		- x clean projects
+		- x create inthub25 in apps
+	- x make script: npm run listruns
+		- x create directories on phone
+		- x clear front page
+		- x create mock "listruns" script
+		- .. make script actually list runs
+	- x make script: npm run getruns
+		
+	
+	
+- PROJECT: be-using-10-frameworks
+	- INFO
+		- projects
+			- typescript: internalhub
+				- password
+			- bash: tanguayinfo
+			- python: freiburg
+			- ruby: frontend-master
+			- go: compoutput
+			- python: langlearn
+				- /italian
+				- /polish
+				- /dutch
+				- /(all languages)
+				- easyfrench (dual subtitles)
+					- https://www.youtube.com/watch?v=PdmdX9tvJB4&list=PLnazreCxpqRlBNcfZuQkxYFKJ-VRuzrzV&index=4
+			- csharp: datapodcentral
+			- php: ethicscore
+			- elixir: techiteminfo
+			- bash: vimmaster
+			- rust: bookreader
+			- kotlin: 
+	
+	
+			
+- PROJECT: all-datapods
+	- TASK: fix the main-in-main problem
+	- TASK: make the responsive menu more user-friendly and intuative
+	- TASK: root base path
+		- make pathAndFileName based in root of project
+		- otherwise absolutePathAndFileName
+			
+- .. PROJECT: datapod-for-react-go-json
+	- x debug
+	- x with hammer icon
+	- x cli
+	- x rest
+	- .. make basic 001, 002 learn
+			
+- PROJECT: tech-item-info
+	- datapodProject
+	- Elixir
+	- items
+		- quote; elixir, ruby; Elixir and Ruby definitely have a relationship, not in how they run, but in how they feel; 4.7
+		- fact; elixir, ruby; José Valim, the creator of Elixir, was a core contributor to Ruby on Rails before building Elixir, he wanted something with Ruby's expressiveness and developer happiness, but with better performance for high-concurrency, fault-tolerant systems; 4.3
+		- fact; elixir; Elixir is built on the BEAM, which is the Erlang virtual machine, Elixir and Erlang code are compiled by the OTP (Open Telecom Platform) and executed on the BEAM; 3.8
+		- fact; elixir; start Interactive Elixir with `iex`; 2.3
+		- fact; functionalProgramming; functional programming is declarative which means it focuses on what to solve instead of how to solve, it's compose of functions that return values without chaning the software state; 4.1
+		- fact; functionalProgramming; functional programming avoids side effects and shared state by using pure functions and immutable data;4.2
+		- quote; elixir,haskell; Elixir is dynamically typed, meaning types are checked at runtime. This makes Elixir easier to start with, but it doesn't offer the same level of type safety as Haskell.;4.2
+		- quote; elixir; Elixir doesn't assign values to a variable, instead, Elixir binds a value to a variable;3.9
+		- fact; elixir; if c = [a,b] where a=3 and b=20, then you rebind a=4, c is still a list [3,20], this is immutability;4.4
+		- quote; elixir, ruby; If you have experience with Ruby, Mix in Elixir is like a mixture of Bundler, Rake and Gems.; 4.5
+		- fact;go; Go has no static members or constructors, which affects design patterns like Singleon, nor does it have class-based inheritance or method overload which affects patterns like Visitor; 3.2
+		- fact;go; Go has no has no support for error exceptions, but rather, errors are communicated back with return values, and so design patterns like Builder are affected by this kind of behavior; 3.4
+		- fact;go; Go has no direct concept for abstract classes, so design patterns like Abstract Factory and Bridge, are affected by this;3.8
+		- fact;designPatterns;Useful design patterns: Creational (Builder, Factory, Singleton), Structural (Adapter, Facade), Chain of Responsibility (Iterator, Observer)
+		- fact;rust;history of Rust: 2006 Mozilla employee project, 2010 sponsored by Mozilla, 2015 first stable version 1.0, since then every six weeks a new version
+		- fact;rust;Rust does not have a garbage collector, it uses a concept called ownership
+- .. PROJECT: datapod-for-react-kotlin-json
+	- x create
+	- x qdev:debug
+	- x second command
+	- x cli  
+	- x suuid
+	- .. get lines
+ 	
+	
+
+
+- x PROJECT: datapod-for-react-haskell-json
+	- INFO
+		- install Haskell on Ubuntu
+			- https://www.haskell.org/ghcup/
+			- copy and paste command
+			- (choose all defaults)
+			- (takes about 5 minutes)
+			- ghc --version
+			- I had 9.6.7 (2025-04-16)
+	- x install from PHP
+	- x mock cp print
+	- x debug function
+	- x cli
+	- x suuid 
+	
+
+
+- x PROJECT: datapod-for-react-rust-json
+	- INFO
+		- install on Windows
+			- https://www.rust-lang.org/tools/install
+			- Download rustup-init.exe (64-bit)
+				- install C++ build tools
+					- https://visualstudio.microsoft.com/it/downloads/
+					- find Microsoft Visual C++ download, install, reboot (!)
+					- that didn't work
+				- install Visual Studio Community
+					- https://learn.microsoft.com/de-de/visualstudio/install/install-visual-studio?view=vs-2022
+			- ok, it was too painful to navigate Microsoft's advertising-muddled sites to figure out how to install Visual Studio Code, just in order to run Rust
+				- so didn't install on Windows
+
+		- create new commands with "cargo new create-page" etc.
+	- x create datapod-for-react-rust-json from php site
+	- x create mock "cp" command
+	- x ignore target/
+	- x math into qtools
+	- x create debug with timestamp
+	- x finish qstr.message with switch
+	- x make parse-data.rs
+	- x qstr.generateSuuid
+	- x read file into lines 
+	- .. readme
+	
+	
+
+
+- .. PROJECT: comprehensible-output
+	- x read the file from techlanglearn directly
+	- x fix not adding estimated time
+	- .. fix bad UTF8, it should be: \u015a
+	
+
+
+
+- x PROJECT: datapod-for-react-elixir-json
+	- INFO
+
+	- x copy from PHP
+	- x mock commands
+	- x debug
+	- x qcli.message
+	- x suuid
+	- x create JSON file
+	- x add install info
+	- x test ubuntu
+	
+
+- PROJECT: datapod-for-react-php-json
+
+	
+	
+
+- x PROJECT: datapod-for-react-csharp-json
+	- x make learn area
+	- x create JSON, base on ts
+	- x make same structure as ts
+		- x commands
+		- x utils to qtools
+	
+	
+
+- x PROJECT: datapod-for-react-typescript-json
+	- x central 
+	- x test TypeScript without transpiling
+	- x base site and reduce to mock blank cmds
+	- x add types commands that run "tsx scripts/create-page.ts"
+		- x move Go to C:\edward\apps
+		- x move Python to C:\edward\apps
+	- x parse-data 
+		- x change to qtools
+		- x show file lines
+		- x commands in directory
+		- x types
+		- x create array of Flashcards and show
+		
+		
+	
+	
+
+- PROJECT: datapod-for-react-bash-json
+			
+
+
+
+
+- PROJECT: vim-central
+	- INFO
+		- show who when you search and replace in numerous files, you can do ":" and arrow up
+	- make howto
+	- make video
+		- use how you use vim in doing a rebase
+	
+- PROJECT: language-reference
+	- TASK: convert tanguay.info/italian and all others to a Datapod site on Vercel
+
+
+		
+- PROJECT: datapod-for-react-csharp-json
+
+
+- PROJECT: datapod-for-splitstack-mern
+	- .. set up backend with login/jwt
+		- .. copy in from this template: https://github.com/edwardtanguay/et431-jwt-fullstack
+	- setup frontend
+		- copy in from this template: https://github.com/edwardtanguay/et431-jwt-fullstack
+		
+		
+		
+
+- PROJECT: comprehensible-output
+	- TASK: create prompt generator
+
+	
+
+- x PROJECT: coding-challenge-nextjs
+	- x TASK: set up site
+		- x make current template
+		- x create from template
+		- x about off
+	- x TASK: define types
+		- x add new data
+		- x Define a TypeScript interface for a blog post. A blog post should have an id, title, content, author, and an optional tags array.
+	- x TASK: main page: welcome to coding challenge
+		- x say welcome
+		- x link to blog page
+	- x TASK: change info to blog
+		- x list all blog posts: title and author
+	- x TASK: single item blog page
+		- display the full content of the blog post along with the title, author
+		- x and tags (if available)
+		- x feature to count the number of commas and dots in the blog post content
+	- x TASK: add CSS
+		- x use basic CSS for styling the application. Create a global CSS file or individual CSS modules for components
+	- x TASK: about page to "New Blog Entry"
+		- x make form
+		- validate the form fields using Zod
+		- validate the tags as an array of strings
+		- utilize utility types like Pick, Partial, and Omit to handle different states of the data (or somehow)
+	- TASK: What would be possible solutions to improve the performance?
+	- TASK: (if time) clean
+	- TASK: (if time) computer view in middle (see other)	
+	- TASK: if time, make readme
+	- TASK: (if time) stats page list number of times blog view with puncution
+		- first just the list of all
+		- count how many times
+
+- PROJECT: italian-verbs
+	- TASK: display verb tables
+	- TASK: search
+	- TASK: Tatoeba
+- PROJECT: day-journal-time-tracker
+	- info
+		- parse the data you are saving in dp25.txt
+		- make site to show 
+- .. PROJECT: datapod-for-nextjs
+	- x TASK: set up as datapod
+		- x create with repo: datapod-for-nextjs
+			- x clean site with simple name
+			- x also clean readme
+			- x repo and site
+			- x fix dark mode
+			- x get control of styles on mobile
+		- x add to datapod central site
+	- x TASK: navigation
+		- x page navigation: make Welcome, Info, About
+			- x create simple page without nav: about
+			- x find out what AppProvider is
+		- x style computer/mobile
+			- x mobile
+			- x computer
+		- x active link color
+		- x 404
+	- x TASK: make item page
+		- x change to 15
+		- x find when load (directory from .json)
+		- x make infos page show three infos from array
+		- x make id page that shows them
+		- x put back into config
+	- x TASK: load data from API
+		- x make infos route
+			- x fix caching
+			- x make /info/3 route
+		- x change title
+	- x TASK: unprotected delete route
+		- x get data from JSON file
+		- x make delete
+		- x block delete route if online
+	- .. TASK: center page if not 
+	- TASK: get overview
+		- .. https://www.youtube.com/watch?v=fqabW3WRUbw&t=501s
+	- TASK: protect delete route
+	- TASK: make CRUD page with infos
+	- TASK: work through next.js course and add functionality
+- PROJECT: run-site
+	- INFO
+		- https://www.runningclubsberlin.de/clubs/berlin-social-runners
+		- https://www.meetup.com/founders-running-club-berlin
+- PROJECT: elastic-search-fullstack
+	- info
+		- connect to elasticsearch
+		- retrieve media records from the existing Elasticsearch index
+		- perform keyword-based search or filtering on fields such as title, description, or other metadata
+		- handle unstructured or missing fields gracefully
+		- in Node/Express, build an API that gets data from the Elasticsearch datasource when an endpoint is accessed
+		- make React site to display and allow user to filter media results
+	- x TASK: make folder and backend API to get the information from Elasticsearch
+	- x TASK: contact company for more time
+	- x TASK: get Trae set up and running
+		- x see how it runs first
+			- x http://localhost:5000/api/indexes2
+			- x http://localhost:5000/api/index/imago_v2
+			- x http://localhost:5000/api/index/imago
+		- x INFO: read instructions again
+			- x check image: 
+				- https://www.imago-images.de/bild/st/0258999077/s.jpg
+				- DB values are normally "st"/"sp" in ES docs
+				- For the url media id needs to be 10 chars long, padded with zeroes at the start of the string if too short.
+			- x create todos from instructions: https://imago-images.notion.site/Coding-Challenge-C3-19288a8564ed807d82b2dd6c630d6d12
+				- keyword-based search/filtering on title, description, etc.
+				- handle unstructured or missing fields gracefully (Zod)
+				- propose any transformations to improve searchability or data quality
+				- build a frontend to display and filter media results
+				- identify potential issue: data inconsistencies, performance bottlenecks, security concerns), propose a thoughtful solution.
+				- Discuss how your solution would handle large volumes of data, keep your solution maintainable as more external providers and media items come online
+				- Include basic monitoring or logging considerations.
+				- Write tests that reflect your normal coding practices
+			- x solution:
+				- public repo
+					- README with 
+						- infos
+							- https://github.com/edwardtanguay/elastic-search-fullstack
+							- used this template: https://github.com/edwardtanguay/vite-react-node-express-lowdb-json-fullstack
+						- all above answer questions
+						- instructions on how to run it
+				- submit your solution as a PDF
+					- link to public repository
+					- basica information from README
+		- x set up frontend/backend site
+		- x test-run Trae
+			- x create page
+	- x TASK: set up as full stack site
+	- x TASK: get new version of Trae
+		- x download
+		- x test deepseek with remove page
+	- .. TASK: display the data from backend on frontend
+		- x move from test to backend: api/images\
+		- put data in .env file
+		
+		
+- PROJECT: fullstack-mern-site
+	- info
+		- continue: https://github.com/edwardtanguay/two-factor-login-with-twilio
+	- TASK: redefine readme for new project; 15m
+- PROJECT: hyperlang
+	- info
+		- like hyper book
+		- score points by doing exercises
+		- exercises where e.g. you 
+		- or grammar tables e.g. Italian article prepositions (dei, degli) that you have to fil in 
+		- the cloze-type exercises, like this: https://verbito.net/worksheets/c-test/
+- PROJECT: useful links
+	- user
+		- https://www.openstreetmap.org
+- PROJECT: python tools
+	- TASK: Tika (PDFs)
+- PROJECT: techitems
+- PROJECT: ai-tech
+	- TASK: add AI section to mind map: https://coggle.it/diagram/ZE-oXwAjwnrf-l8P/t/web-development
+- PROJECT: timetracker
+	- INFO
+		- parse the current time tracking text
+		- *** make a dashboard that keeps track of daily: 5 hours build, 5 hours learn
+		- put it online and make it secure
+- PROJECT: lowcode
+	- TASK: foray on learning notion
+- PROJECT: transatlantic-accent
+	- characteristics
+		1. non-rhoticity: drop all final Rs, not [FAH-ther] but [FAH-tha]
+		2. non-verlarized R and L, i.e. speak with a light R and L instead of a dark R and L: move these two sounds from the back of your throat (Texan) to the front of the lips (British)
+		3. drop alveolar tap: 
+			- butter, not [BUDDER] but [BUH-tah]
+			- created, not [kree-AY-ded] but [kree-AY-ted]
+			- setup, not [SEH-dup] but [SETT-upp]
+			- got it, not [GAWD-it]; [GOTT-itt]
+			- in the city
+			- water
+			- the former and the latter
+			- what is the matter
+			- it's clear what you're saying, not [wha-chur] but [what-yoo-ah]
+			- little did I know
+			- it was little
+		4. drop consonant syllabification
+			- button, not [BUH-n] but [BUTT-en]
+			- certain
+			- kitten
+			- mountain
+			- shouldn't, not [SHU-nt] but [SHUD-ent]
+		4. employ palatalization of the "u": duty is not [DOO-dee] but [DYOO-tee]
+		5. drop assibilition: education is not [eh-joo-KAY-shun] but [ehd-yoo-KAY-shun]
+		6. vowels are pronounced clearly, openly and deliberately: noon not [noon] but [noooon]
+		7. enunciate consonants: pronounce all Ts, Bs, Ps, etc. clearly and distinctly, and non-voiced consonants crisply
+		8. in general, always speak deliberately and thoughtfully, which decelerates your speech but puts you in control
+		9. not British
+			- "and" is flat
+		- you don't have to avoid or extend contractions
+			- don't and can't is ok
+		- practice
+			- that shouldn't matter at all
+			- pour all the water in the barrel
+			- it's certain that we're going to go
+			- it's our duty to meet at noon on Tuesday
+			- it's unopinionated
+			- but that shouldn't matter
+			- they haven't gotten back yet
+			- out of it
+			
+		- drop all ums, ahs, ya knows, and likes
+			
+
+- PROJECT: vuejs-csharp-fullstack
+	- TASK: add routes
+	- TASK: make menu responsive
+	- TASK: publish at Hetzner
+- PROJECT: two-factor-login-with-twilio //private
+	- x TASK: organize project
+		- INFO
+			- https://blingcard.notion.site/Backend-engineer-challenge-ca0e1c56efe14ca4b5786d784210e4ff
+		- x develop with branches
+	- x TASK: setup site with name based on template //feat-setup-site
+		- INFO
+			- https://github.com/edwardtanguay/vite-react-node-api-one-directory
+		- x minimize vulnerabilities
+	- x TASK: convert site from flashcards to users //feat-flashcards-to-users
+		- x detele info page
+		- x make db.json: name, email, mobile, login, password
+		- x create GET /api/users route
+			- x test with postman flashcards
+		- x show names on frontend
+		- x remove flashcards
+			- x remove from frontend
+			- x remove from backend
+		- x change name of app and all extras off
+		- x fix responsive title
+		- x create content on about page
+		- x change style
+	- x TASK: enable user registration, check bcrypted //feat-user-registration
+		- x POST /api/register-user
+			- x first as plain password
+		- x convert password to bcrypt
+			- x make newUser, databaseUser, user with password
+			- x add the passwords to README
+		- x fix get users so they get frontendUsers
+		- x convert FrontendUser to user
+	- x TASK: add Zod protection //feat-add-zod-protect
+		- x change all to mockcompany.de
+		- x add Zod protection
+		- x defined with zod more precisely
+	- x TASK: frontend register form //feat-add-frontend-registration-form
+		- x PageRegister.tsx
+		- x show errors
+		- x show examples
+		- x put back in easy-peasy
+			- x fix error handling
+		- x make it update immediately
+		- x error if login already exists
+	- .. TASK: status update //minor-status-update
+		- x about page
+		- .. write email
+	- TASK: enable login with login/password
+	- TASK: enable JWT //feat-enable-jwt
+	- TASK: readme
+		- most proud: explicit names for user
+	- write and postpone
+			
+- PROJECT: hetzner
+	- TASK: cancel second machine
+		- move over all sites
+	- TASK: install PHP on Hetzner
+		- 
+- PROJECT: reactskills
+	- TASK: Howto with Formbricks: https://formbricks.com
+	
+	
+- PROJECT: newtech
+	- TASK: Howto with Monorepo
+	- TASK: Howto with TRPC
+	- TASK: JavaScript advanced: javascript-showcase
+		- Map, Set, generator functions
+		- generator functions with API
+		- closures
+		- proxies, reflect
+		- web workers
+		- various uses of promises
+	- HABIT: Go quiz
+	- HABIT: Pythong quiz
+	- TASK: https://refine.dev/
+		- developers can quickly scaffold applications with CRUD functionality, authentication, access control, and real-time updates
+	- TASK: Howto with Tailwind 4.0
+	- TASK: Howto with Shadcn
+	- TASK: Howto with Kysely Query Builder 
+	- TASK: Howto with React-Admin
+	- TASK: Backend with Nest.js
+	- TASK: Backend with TypeORM
+	- TASK: Howto with Formbricks
+	- TASK: Howto with Slim (PHP)
+	- TASK: Howto with v7 Router mit react19
+	- TASK: Howto with https://platform.openai.com/docs/assistants/overview
+	- TASK: Howto with Java/Vaadin
+	- TASK: https://howlerjs.com
+	- TASK: https://pixijs.com
+	
+	
+
+- PROJECT: python
+	- .. TASK: do all quizzes here: https://realpython.com/quizzes
+		- x https://realpython.com/quizzes/python-formatted-output
+		- x https://realpython.com/quizzes/python-web-scraping-practical-introduction
+		- x https://realpython.com/quizzes/python-async-iterators
+		- x https://realpython.com/quizzes/async-io-python
+		- x https://realpython.com/quizzes/python-data-types
+		- x https://realpython.com/quizzes/python-input-output
+		- x https://realpython.com/quizzes/beautiful-soup-web-scraper-python
+		- .. https://realpython.com/quizzes/beautiful-soup-python-web-scraper
+		
+- PROJECT: php-skills
+	- TASK: do a howto to set up Slim PHP
+		- https://www.slimframework.com/
+		- created 2010
+- PROJECT: css/frontend
+	- TASK: Tailwind 4.0 https://www.youtube.com/watch?v=mXgQDKcTtJ4 
+	- TASK: The newest Shadcn
+
+- PROJECT: nodered //priv
+	- x find mail and read
+	- INFO
+		- YouTube channel of Node-RED, useful
+			- https://www.youtube.com/@Node-RED/featured			
+		- get account at Hubspot
+			- get API key: https://www.youtube.com/watch?v=zgeotT93P3w
+
+		- coding challenge
+			- https://mail.google.com/mail/u/0/#search/omnipeak+/FMfcgzQZSjfNxbtnkKKpZhrDpFhxFVjr?projector=1&messagePartId=0.1
+		- flows_cred.json
+			---------------------------------------
+			{
+				"$": "3cbbcbc0d5c7bd0db6ce6abafa3c6e6dFuD24SVaUAWczu4foJj9ChQ9p5B8qMkperrX4kQOz18QqZjAeXVWw9mtx9B+idGAWpEx1zMSwiRmUpFv/k7V1GBBdPb1P7W4v1aMsHnywZof1X1uAf2A1UtcJHVaKMTovt+wRvzF"
+			}			
+			---------------------------------------
+	- .. TASK: finish coding challenge
+		- x create Node-RED project
+			- x figure out difference between project and flow
+			- x use a HTTP request node	
+				- x read: https://edwardtanguay.vercel.app/share/skills.json
+			- x add contact info to Hubspot
+			- x via HubSpot-API get contact info
+			- x API-key and private app access token
+			- x don't check in flows_cred.json
+		- transform
+			- x use function nodes to tranform and filter
+				- x filter: only contacts with emails
+				- x transform: if no phone number status then "(no phone number)"
+		- x mail
+			- x install node-red-node-email
+			- x send e-mails based on filtered contact deals
+			- x build a catch node to log sending errors 
+			- x send structured email with subject
+			- x save errors in log file
+		- .. all videos
+		- )) error handling and logging
+			- catch errors when connecting to Hubspot (bad api key)
+			- save to connection_errors.log (same as email log)
+		- )) timed execution
+			- implement an inject node which runs once a day
+			- but make sure it only sends mails when data has changed, i.e. don't send a mail twice 
+		- )) file persistence
+			- save a file with collection of emails processed
+			- use this information to not send any doubles
+		- // subflow 
+		- x structure
+			- // use subflows for repeated tasks, e.g. email sending
+			- x create readme file
+			- x clean code
+			- x accuracy
+			- x comments, readme
+			- x don't show Password/api-key in clear text
+			- make sure mails are received
+		- submission
+			- save project in GitHub repository
+				- (or as a Node-RED flow file)
+				- make GIF showing how to use it
+				- add description
+				- mail
+					- share repository
+					- ask what email should be sent to share
+			- include readme
+				- how to start
+				- where to save the hubspot-api-key (Node-RED credentials)
+				- how to configure email parameters (SMTP, recipient)
+				- which flows/subflows exist and which tasks they fulfill
+				- steps not completed yet
+					- subflows
+				- video showing how it works
+				- to show logging: change email to edwardappmailer234gmail.com
+				- flow_cred.json put in .gitignore so it is not in repo
+				- questions:
+					- better dev experience, e.g. Vim for the editor, or some way to code in VSCode
+					- can you use TypeScript
+					- how best to integrate with microservices
+					- how is testing handled in Node RED
+					- what percentage of the complete solution is Node-RED
+	- tutorials
+		- 2017: https://www.youtube.com/watch?v=3AR432bguOY
+		- SAP and Node-RED: https://www.linkedin.com/learning/build-sap-integration-with-node-red/meet-your-instructor?resume=false
+- PROJECT: aisite
+	- services
+		- openrouter.ai
+- PROJECT: vim-master
+	- info
+		- use ChatGPT
+		- repeat 33 "-": 33i-<Esc>
+- PROJECT: cdchallassecor //priv
+	- x 2025-01-14 09:00:00 started
+	- x python job record
+	- x wait for response to React and 1-test question
+	- .. do coding challenge tonight: Zod, etc.
+		- read email and site again
+			- x goal
+				- x Aufbau Deines Codes 
+				- x Deiner Herangehensweise an Problemstellungen 
+			- x rules
+				- x Du in der Wahl von Frameworks und Bibliotheken frei
+				- x innerhalb 1 Woche bis zum 22.01.2025
+				- x Deinen tatsächlichen Kenntnissen und Erfahrungen entspricht 
+				- x zufrieden mit deinem Ergebnis 
+			- x turn it in
+				- x forkst Du Dir das Assessment
+				- x bearbeitest es im *privaten* Repository 
+				- x stellst uns per E-Mail an Esra den Link nach Fertigstellung zur Verfügung
+					- x lade matthias.korf@assecor.de zu deinem privaten Repository auf GitHub ein
+			- .. todo
+				- x title
+				- x all pages
+					- x people
+					- x films
+					- x starships
+					- x vehicles
+					- x species
+					- x planets
+				- x load all
+					- x people
+						- x load from API
+							- x make dataModel with mock promise and two
+						- x make page for singles
+							- x show menu too
+						- x make responsive
+				- .. do rest of item pages
+					- x films
+					- x find all that have images
+							- NO starships
+							- NO vehicles
+							- YES species
+							- YES planets
+					- x species
+						- x https://starwars-visualguide.com/assets/img/species/2.jpg
+					- x starships out
+					- x vehicles out
+					- x planets
+						- https://starwars-visualguide.com/assets/img/planets/2.jpg
+						- x deal with non pictures
+							- x make hasImage
+							- x send in styles
+							- x make no-image planet graphic: no-image-planet.jpg
+							- x fix broken link for single
+				- x add Api TypeScript type
+					- x persons
+					- x other three
+				- x add all connections between items and display
+					- x persons, save film ids
+					- x make populateItems
+					- x display films 
+					- x persons species
+					- x small titles
+					- x films
+						- x planets
+						- x species
+					- x title in class and larger
+					- x species
+						- x people
+						- x films
+					- x planets
+						- x residents
+						- x films
+				- x count and show the number of API calls
+					- x make persistManager to save fetchCount
+				- x info page
+					- x make page
+					- x intro
+					- x show fetchCount
+					- x reset
+				- x persist and only load once
+					- x flex row
+					- x make caching state variable
+					- x info site: change cache
+						- x change until now cyclic error
+					- x when we say no caching, keep it no caching
+				- x totals in menu
+					- x check blanking
+				- x quick loading when actually loading
+					- x add animation
+				- x only persist part
+					- x take off test
+				- x make loading spinner
+				- x make delete items not remove localstroage
+				- x show text based on if records there or not
+				- x make default caching on
+				- x mobile 100%
+					- x buttons
+					- x loading
+				- x put online as well
+					- x at: starwarsapi
+						-  x fix typescript errors
+					- x check mobile on screen and phone
+					- x check mobile again, e.g. info page
+				- x check console log for errors
+				- x check code: clean, minify
+				- x write readme
+					- x GIF of site demo
+					- x potential refactor: make the load functions generic
+				- x fix 34
+				- .. postInitialize
+				- .. map
+			- extras
+				- easy-peasy
+				- Tailwind
+				- Zod
+			- notes
+				- For security reasons, you cannot change the visibility of a fork. 
+					- so created from a template
+					- made it private
+				- name: assecor-assessment-frontend
+		
+	- TASK: take test: https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSjbvRRXmtfFHgmTzpTbGTRQZ
+- PROJECT: aiPageOnTechSite
+	- project "Know Your Overlord"
+	- AI is more than helpful 24/7 to help you learn about it
+	- terms: Pinecone, Weaviate, LlamaIndex, GptIndex, LLM, LangChain
+- PROJECT: youtubechannel
+	- NOTE: before every video
+		- have list of words to practice, e.g. data (not [DA-da] but [DA-ta])
+		- have a list of what you are doing and explicitly write the step down before you do it
+	- TASK: Easy-Peasy Redux basics
+		- https://github.com/edwardtanguay/easypeasy-redux-showcase
+	- TASK: Go backend, SvelteKit 5 frontend admin app
+		- then use this to create gj25
+	- TASK: Star Wars site
+	- TASK: make descriptions list the points that one learns
+	- TASK: Go API accessing online drizzle (Render or MongoDBAtlas)
+	- TASK: Watch this https://www.youtube.com/watch?v=Qe6Vzk3juJ0 and do an example of every CSS feature
+- PROJECT: personal site
+	- all recent runs including 2024-12-22	
+		- x last run onto disk
+- PROJECT: newtech
+	- howto: https://nodered.org
+	- howto: nestjs
+		- https://www.youtube.com/watch?v=GHTA143_b-s
+	- howto: the @ in vite.config, see mstrom
+- PROJECT: godeveloper
+	- TASK: howto/video: write go script that parses application process
+- .. PROJECT: techsite
+	- .. TASK: video: React CRUD frontend with easy-peasy Redux state management and Python FastAPI backend
+		- x make howto
+			- x find out why 0
+			- x allow for all frontends
+			- x when click alert test
+			- x show hand on cursor
+		- .. publish video
+			- .. setup and test
+	- TASK: video: Strongly typed object-oriented programming in Python using mypy
+		- use game players, see 038-simple-class.py
+	- TASK: video: Go script to copy files for howtos/forays
+	- TASK: Text-to-mp3 voice generation with Python and GTTS	
+	- TASK: start Git video playlist; rank=4.988
+		- make videos that are 10-12 minutes each with a topic
+	- TASK: site that tracks which videos are planned, being worked on, etc. 
+		- ability for users to add suggestions
+		
+- ,, PROJECT: techlanglearn
+	- ,, TASK: bug: dropdown doesn't work; $rank=4.8
+		- x try firefox: worked
+		
+	- TASK: add labels to topics and dropdown for topics
+	- TASK: other Flask videos 
+	- TASK: parse the extra text such as pr and conj
+		- put these in a function or class so that it can be used in other applications
+	- TASK: record how to say letters for Italian, French, Spanish
+	- TASK: make flashcard page more useful
+		- search, open all
+		- make user type, and compare it
+	- TASK: on page Home, show which tutorials one watched each day
+	- TASK: Add progress bar and search box
+		- show progress: percentage of course finished
+		- search box
+	- TASK: create rest of tutorial files
+	- TASK: crunch French verbs, make site for this
+	- TASK: new column: when last watched, make sortable
+	- TASK: pass full Zod errors to front, not just number
+	- TASK: add YouTube and LinkedIn icons
+		- https://icon-sets.iconify.design/?query=youtube
+	- TASK: make frontend responsive and put online
+	- TASK: add all new tutorials and display
+		- add tags
+			- extend: might use in a job
+				- Monorepos, Kafka, Ruby on Rails
+			- fringe: probably won't use in a job but interesting
+				- Julia, Pheonix
+			- devops
+				- Kafka, Ansible, Terraform, Kubernetes
+			- currentTech
+				- Docker, Go, GraphQL
+			- retro: tech that reminds me of old times
+				- Perl, VBA
+		- display on "Tutorials" page under
+			- Not Yet Started
+	- TASK: display contents of tutorials, toggle open/closed
+	- TASK: parse and display images
+- .. PROJECT: trilingualLittlePrince
+	- .. TASK: finish chapter 5
+	- )) TASK: chapter 6
+	- TASK: make sure spanish is es everywhere and not sp
+	- TASK: show conjugated verbs in inline flashcards like: conj=risvegliare
+	- TASK: parse multiple notes
+		- e.g. [cominciano;they begin; pr=co-meen-CHAH-noh]
+	- TASK: enable chapters to shown only with chapter summaries
+	- TASK: make audio links to Google translate for each phrase
+	- TASK: produce audio
+		---------------------------------
+		from gtts import gTTS
+		import os
+
+		text = "Hola, ¿cómo estás?"
+		language = "es"  # Spanish language code
+
+		# Generate the audio file
+		speech = gTTS(text=text, lang=language, slow=False)
+		speech.save("output.mp3")
+
+		# Play the audio (optional, depends on your OS)
+		os.system("start output.mp3")  # For Windows		
+		---------------------------------
+- )) PROJECT: general howtos
+	- )) HOWTO: how to increase quality of youtube videos on cell phone
+- PROJECT: soflash
+	- )) TASK: get new Vercel devops working well
+		- x understand various urls: my production branch was main
+		- x switch workflow to main
+		- x test feature branch: feat-test-99
+		- x make soflash-dev
+		- x understand why it still has suuids
+			- x still there after clear: yes
+			- x check local: yes, e.g. JxlE9S
+			- x answer: it's creating a new suuid every time, this will be made permanent with go script
+		- x branch: fix-remove-manage flashcards
+		- x make howto for Vercel workflow	
+		- )) 13:00 test again (currently too many posts)
+			- test workflow checking feature on -dev on cell phone, then on main
+			- on smart phone: change to website only
+	- TASK: Set up import from techlanglearn and get online again
+		- make howto: How to set up Go backend script for a React site
+			- set up Go backend with "npm run import"
+				- copies file
+				- loops through all, adds those that are not in flashcards
+				- with suuids
+		- get Learn page working again
+		- hide Manage page when online
+		- get site url back: soflash if possible
+	- TASK: enable dropdown on Learn page		
+		- add dropdown to Learn page
+		- shows french/spanish/italian, has appropriate colors
+	- TASK: multiple imports
+		- in addition to techlanglearn, import from internal for e.g. dates, numbers, colors, basics (towards, until, etc.), time
+		- make multigroup
+			- (most recent 10, french/spanish/italian, most important, already taken, not yet taken)
+		- make Flashcard page a development page and only accessible locally (env variables)
+		- have groups like Polish-Numbers
+		- find a good way to select a large group on handy, perhaps simply a list that opens up
+	- TASK: improve UX and clean up
+		- when select search, focus in input box
+		- create an "x" on right side of search to clear it	
+		- fix dropdown to look good on Chrome, Firefox and smartphone
+		- full responsive
+		- put tools in qtools
+	- TASK: add groups
+		- mathTerms: add, sustract, divide, multiply
+		- daysOfWeeks
+		- monthsOfYear
+		- dutchNumbers
+		- tellingTime
+	- TASK: login page and make local only
+		- x make login text and form on profile page
+		- x hide login form when online
+		- x guest first
+		- x default: logged in as guest (anonymous)
+		- .. allow login for local user "edward" and "Hans Tester"
+			- with accessGroups
+				- edward: loggedInUsers, administrators
+				- hand: loggedInUsers
+			- saves localhost state to text file via Go API
+		- this version backend is Go
+			- this version is local and so has no tokens
+			- when user logs in, their user state object is loaded 
+			- when user logs out, localStorage is replaced with blank
+		- register works as well, new users are added
+			- currently the backend datasource will be a JSON file: db.json
+	- TASK: implement release versions in the repos
+		- learn how: https://www.youtube.com/results?search_query=github+releases+tutorial+	
+	- TASK: make import instead of direct reading, and multi-lingual
+		- enable local user to change admin fields, e.g. notes, etc.
+	- TASK: extend capabilities
+		- .. show stats
+			- 332 items available
+			- 4 deleted
+			- etc.
+			- you've tested yourself on 121 of 332 so far
+			- you've tested yourself on 31 items today
+			- you have marked 3 as learned
+			
+		- rank slider
+		- links
+			- all large words: tatoeba
+			- google translate for audio
+			- conjugate
+		- buttons
+			- mark as learned 
+				- won't be tested on it again 
+				- will still appear in search
+				- will be added to list of learned items
+			- park 
+				- won't be tested on it again 
+				- will still appear in search
+			- delete
+				- won't be tested on it again 
+				- won't appear in search anymore
+			- question
+			- research
+			- note
+		- image upload for user
+	- TASK: Improve UX for FlashcardTraining component	
+		- )) links to tatoeba for words 3 letters and more
+		- link to conjugate
+		- link to pronunciation
+		
+		- put cancel button on search
+		- make a total score 
+		- show similar flashcards
+		- when click on "try again" put cursor in box
+		- deal with extra information, e.g. si te fijas, como te estaba mencionando;note=fijar: to fasten, regular
+		- make this smartphone-friendly
+		- programmatically blue the right/wrong when they change
+		- handle //comparison
+		- random flashcard is shown
+		- user has to type in answer and click submit
+			- saved in localStorage under anonymous for now, e.g.
+				- "anonymous": 
+					- flashcards:
+						- longcodeksjdfsk001
+							- personalRank
+							- responses [datetime, answerText]
+						- longcodeksjdfsk002
+							- personalRank
+							- responses [datetime, answerText]
+						- longcodeksjdfsk003
+							- personalRank
+							- responses [datetime, answerText]							
+		- all past answers are shown 
+		- can change slider to mark personal rank: 1-5
+			- the likelihood of being selected is: 
+				- higher rank, higher likelihood
+				- more answers correct, lower likelihood
+	- TASK: implement Kinde for Google login
+	- TASK: implement Hetzner Node/Express/Mongo server to save state
+- extendTech
+	- TASK: Learn how to set up a virtual environment for Python; $rank=4.91
+		- https://www.youtube.com/results?search_query=virtual+environment+python+visual+studio+code
+	- https://webflow.com/
+	- Haskell
+- PROJECT: bash-showcase
+	- TASK: set it up like go-showcase, take a course and get numerous examples
+- PROJECT: fastapi-showcase
+	- TASK: make official
+		- add readme with all instructions to set up virtual environment, how to start, etc.
+		- figure out how to make start scripts
+		- add to main site
+- PROJECT: newtech	
+	- TASK: add to easyPeasy: selector and all other kinds
+- expandDatapod
+	- TASK: set up some project with Ruby as backend language
+	- TASK: set up some project with Rust as backend language
+	- TASK: set up some project with C#/VSCode/.NETCore as backend language
+	- TASK: set up some project with Kotlin as backend language
+	- TASK: set up some project with Shell scripting as backend language
+	- TASK: set up some project with Haskell as backend language
+	- TASK: set up some project with Kotlin as backend language
+	- TASK: set up project with Phoenix/Elixir
+- goProjects
+	- TASK: make a dpodtools library to call in projects
+	- TASK: make epv (easy-peasy variable) which creates a new variables in the local easy-peasy store
+- dailyTeachLearn
+	- mux
+	- jwt
+- authenticationSolved
+	- TASK: Get Kinde working online on a React template site
+		- online with multiple Google accounts
+		- user icons work
+		- customize Kinde landing site for registration
+		- ,, two questions at Kinde Discord
+		- .. watching Kind videos
+- fullStackPush
+	- try out all popular technology for this
+	- goal: be able to get a CRUD app up working on multiple servers with workflow
+- yearOfGo2025
+	- TASK: get GitHub library working
+		- go through all go-showcase-examples and add all useful functions to this library
+- fullstackMernJwt
+	- desc: easy-peasy-template frontend, node/express/mongo backend, jwt, zod
+- fullstackMernClerk
+- datapod-for-react-2025
+	- as you type dpot.txt file, interactive items appear, editing them, changes the file
+	- grid from newTech2024
+	- code generation
+	- url state
+	- "the main project of 2025"
+- fullstackMernKinde
+- PROJECT: newTech2024
+	- TASK: do howto with drag and drop
+		- https://github.com/hello-pangea/dnd
+	- TASK: make howto for date-fns
+	- TASK: make howto for hooks: usehooks.com
+	- a page that saves state with URL variables and easy-peasy
+	- x make showCase model testMessage model
+	- .. TASK: make full CRUD employees with easy-peasy and json-server
+		- x add ems to db
+		- x make employeeModel with loadEmployees
+			- x test with mock data
+		- x build frontend table to display mock data
+			- x put both in components
+			- x show mock employees
+		- x add ids
+		- x make is loading, spinner while loading (from flashcards)
+		- x show error if there is one
+		- x change to easy-peasy-hooks
+		- x make search with filtered
+			- x read from computed state
+			- x dataModel: add bulkSearchText
+		- x sort column
+			- x sortField
+			- x sortDirection
+			- x if click twice, then change direction
+				- x each title clickable
+				- x if twice, change
+			- x hover underline
+				- x sort styles from tailwind to css
+			- x sort in computed
+				- x see if you can find a quick solution for "no sorting" (the original state)
+			- x extend to all relative field
+		- x cancel search button
+			- x icon
+			- x only if searching, hover, pointer
+		- x show ids link
+			- x make link and style
+			- x make functional
+		- x after load, cursor in search
+			- x try autofocus
+		- x if no find, then show message
+		- x show how many of how many
+			- x style message
+			- x real numbers
+
+
+		- .. delete button
+			- x style, hover
+			- .. direct delete (press button and its gone)
+			- add "Are you sure?" step
+
+
+
+
+
+
+
+		- test on Mac
+		- batch operations (e.g. delete), select with button
+		- make some kind of login to show different levels of access: anonymous, manager (only edit certain fields), admin (can change all, shows dpodid)
+		- validate and cleanse with Zod
+		- frontend
+			- different ways to show
+
+
+			- .. make useFlashcard
+				- make it flip, inside isShowing
+
+	- make basic hook to display one flashcard instead
+		- random flash with button next
+
