@@ -35,7 +35,6 @@
 	
 	
 	
-```END
 	
 	
 - PROJECT: start-angular-node-crud-002
@@ -128,6 +127,7 @@
 			- I deleted the .next directory
 			
 	
+
 - PROJECT: start-nuxt-site-002
 	- INFO
 		- createdOn::2025-11-27
@@ -245,16 +245,6 @@
 		
 
 	
-- PROJECT: start-nuxt-site-001
-	- INFO
-		- createdOn::2025-11-24
-		- createdBy::LLM site
-		- category::start;created by some LLM website, very simple design but with smooth UX, might be good as the basis of a reduced design
-		- rank::4.989
-		- prompt:: create a Nuxt 4 site with 4 pages that have icons in the menu, responsive with hamburger menu, TypeScript, Tailwind, professional but reduced look with light gray
-		- live::https://start-nuxt-site-001.vercel.app
-		- minusNote:: site on smartphone blinks when you switch pages
-		
 
 		
 	
@@ -271,7 +261,6 @@
 
 
 	
-``doing	
 
 	
 - PROJECT: start-sveltekit-site-001
@@ -289,33 +278,6 @@
 
 	
 	
-- PROJECT: worknotes
-	- INFO
-		- parse a work file on dashboard that is searchable, etc.
-
-- PROJECT: database-showcase
-	- INFO
-		- a page that explains datapod
-		- first screen has interaactive text parse with example (like 2018 version)
-
-- PROJECT: template-react-responsive-001
-	- INFO
-		- title::React responsive site with 3 pages		
-	- FEATURE: make dropdown from hamburger menu more visible, e.g. light gray
-	- FEATURE: Upgrade React Router
-	- FEATURE: Convert to Mobx
-	- FEATURE: Smart Menu
-		- INFO
-			- if menu items don't fix, only show icons
-
-
-- .. PROJECT: showcase-symfony-006
-	- INFO
-		- category::showcase; Setting up a Symfony 8 site to refresh myself with the basics again
-		- title::Symfony Showcase
-		- live::not online yet, will publish at Hetzner
-	- .. FEATURE: Create a basic menu
-			
 - PROJECT: showcase-trpc
 	- INFO
 		- live::https://en.wikipedia.org/wiki/Modularity_of_mind
@@ -326,6 +288,7 @@
 	- FEATURE: build CRUD functionality
 	
 	
+```END
 
 - PROJECT: showcase-drizzle
 	- INFO

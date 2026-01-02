@@ -1,6 +1,6 @@
 [
 	{
-		"suuid": "jtfgXT",
+		"suuid": "UNvqGO",
 		"idCode": "start-astro-node-crud-001",
 		"title": "START-ASTRO-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -16,7 +16,7 @@
 		]
 	},
 	{
-		"suuid": "bBEHrl",
+		"suuid": "E1Z2mt",
 		"idCode": "start-html-portfolio-001",
 		"title": "START-HTML-PORTFOLIO-001",
 		"status": "(fill in status)",
@@ -32,7 +32,7 @@
 		]
 	},
 	{
-		"suuid": "XTiSgT",
+		"suuid": "1uK8g3",
 		"idCode": "start-angular-node-crud-001",
 		"title": "START-ANGULAR-NODE-CRUD-001",
 		"status": "(fill in status)",
@@ -44,6 +44,230 @@
 			{
 				"idCode": "start",
 				"shortInfo": "created by Antigravity/Gemini3, this is usable but has some odd UX features, e.g. editing and adding have a modal that make the background disappear, and mobile view scrolls horizontally instead of showing cards"
+			}
+		]
+	},
+	{
+		"suuid": "bO7J3H",
+		"idCode": "start-angular-node-crud-002",
+		"title": "START-ANGULAR-NODE-CRUD-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-node-crud-002",
+		"live": "",
+		"mainImage": "/images/projects/start-angular-node-crud-002.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Cursor, not very usable, has odd UX quirks like: instead of a model for editing, it opens a form at the top of the page even for records a few pages down, and mobile view has horizontal scroll"
+			}
+		]
+	},
+	{
+		"suuid": "Uz0HEz",
+		"idCode": "start-sveltekit-crud-002",
+		"title": "START-SVELTEKIT-CRUD-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-002",
+		"live": "",
+		"mainImage": "/images/projects/start-sveltekit-crud-002.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Claude, works well"
+			}
+		]
+	},
+	{
+		"suuid": "uUeBkI",
+		"idCode": "start-sveltekit-crud-001",
+		"title": "START-SVELTEKIT-CRUD-001",
+		"status": "works",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-sveltekit-crud-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Cursor, has odd way to edit with a form that is always visible"
+			}
+		]
+	},
+	{
+		"suuid": "ncDakf",
+		"idCode": "start-nuxt-crud-001",
+		"title": "START-NUXT-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nuxt-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-nuxt-crud-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3, everything works"
+			}
+		]
+	},
+	{
+		"suuid": "Z8FQVk",
+		"idCode": "start-nextjs-crud-001",
+		"title": "START-NEXTJS-CRUD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-crud-001",
+		"live": "",
+		"mainImage": "/images/projects/start-nextjs-crud-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created with Antigravity/Gemini3, decent"
+			}
+		]
+	},
+	{
+		"suuid": "mj3uHo",
+		"idCode": "start-nuxt-site-002",
+		"title": "START-NUXT-SITE-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nuxt-site-002",
+		"live": "https://start-nuxt-site-002.vercel.app",
+		"mainImage": "/images/projects/start-nuxt-site-002.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Claude, nice UX, mobile has smooth fade"
+			}
+		]
+	},
+	{
+		"suuid": "jsdqPG",
+		"idCode": "start-nextjs-site-dark-001",
+		"title": "START-NEXTJS-SITE-DARK-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-site-dark-001",
+		"live": "",
+		"mainImage": "/images/projects/start-nextjs-site-dark-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3, very usable, pleasant dark design"
+			}
+		]
+	},
+	{
+		"suuid": "SE03g1",
+		"idCode": "start-nextjs-site-002",
+		"title": "START-NEXTJS-SITE-002",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-site-002",
+		"live": "https://start-nextjs-site-002.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-site-002.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Antigravity/Gemini3, very usable"
+			}
+		]
+	},
+	{
+		"suuid": "sv7lop",
+		"idCode": "start-astro-site-001",
+		"title": "START-ASTRO-SITE-001",
+		"status": "usable",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-astro-site-001",
+		"live": "https://start-astro-site-001.vercel.app",
+		"mainImage": "/images/projects/start-astro-site-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Cursor, usuable"
+			}
+		]
+	},
+	{
+		"suuid": "ur8XZn",
+		"idCode": "start-angular-site-002",
+		"title": "START-ANGULAR-SITE-002",
+		"status": "usable",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-angular-site-002",
+		"live": "https://start-angular-site-002.vercel.app",
+		"mainImage": "/images/projects/start-angular-site-002.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Cursor, usable, quick mobile page switching"
+			}
+		]
+	},
+	{
+		"suuid": "rUO9Lb",
+		"idCode": "start-nextjs-dashboard-001",
+		"title": "START-NEXTJS-DASHBOARD-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-dashboard-001",
+		"live": "https://nextjs-dashboard-001-phi.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-dashboard-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created with AI Studio, this dashboard layout is refreshing with menu on left, mobile still usuable"
+			}
+		]
+	},
+	{
+		"suuid": "zAthc3",
+		"idCode": "start-nextjs-site-001",
+		"title": "START-NEXTJS-SITE-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-nextjs-site-001",
+		"live": "https://start-nextjs-site-001.vercel.app",
+		"mainImage": "/images/projects/start-nextjs-site-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Claude website by downloading all the pages, simply layout but good for a reduce site"
+			}
+		]
+	},
+	{
+		"suuid": "kY2efe",
+		"idCode": "start-sveltekit-site-001",
+		"title": "START-SVELTEKIT-SITE-001",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/start-sveltekit-site-001",
+		"live": "https://start-sveltekit-site-001.vercel.app",
+		"mainImage": "/images/projects/start-sveltekit-site-001.jpg",
+		"categories": [
+			{
+				"idCode": "start",
+				"shortInfo": "created by Cursor, very simple and smooth mobile UX"
+			}
+		]
+	},
+	{
+		"suuid": "xLbhAI",
+		"idCode": "showcase-trpc",
+		"title": "tRPC Showcase",
+		"status": "(fill in status)",
+		"mode": "open",
+		"repo": "https://github.com/edwardtanguay/showcase-trpc",
+		"live": "https://en.wikipedia.org/wiki/Modularity_of_mind",
+		"mainImage": "/images/projects/showcase-trpc.png",
+		"categories": [
+			{
+				"idCode": "showcase",
+				"shortInfo": "example of a React site set up with tRPC, back-to-front strong typing"
 			}
 		]
 	}

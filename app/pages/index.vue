@@ -60,24 +60,10 @@ const startProjects = _projects.filter((project) =>
       />
     </div>
 
-    <div v-if="showcaseProjects.length">
-      <h2 class="text-2xl font-bold mb-3">Showcases</h2>
-      <DisplayProject
-        v-for="project in showcaseProjects"
-        :key="project.suuid"
-        :title="``"
-        :category="`showcase`"
-        :project="project"
-        :shortInfo="
-          project.categories.find((category) => category.idCode === 'showcase').shortInfo
-        "
-      />
-    </div>
-
     <div v-if="startProjects.length">
       <h2 class="text-2xl font-bold mb-3">Starter Sites</h2>
       <p>These are starter sites for new projects created with various AI tools.</p>
-      <p>Click on the tabs below to see screenshots and links to repos to use these starters for your projects.</p>
+      <p>Click on the tabs below to see screenshots and links to live sites and repos, so you can decide which you want to use as starters for your projects.</p>
       <p class="mb-6">
         NOTE: These starter sites will eventually be incorporated into my new site: (<a class="underline" target="_blank" href="https://edwards-projects.vercel.app"
           >edwards-projects.vercel.app</a
@@ -94,5 +80,20 @@ const startProjects = _projects.filter((project) =>
         "
       />
     </div>
+    
+    <div v-if="showcaseProjects.length">
+      <h2 class="text-2xl font-bold mb-3">Showcases</h2>
+      <DisplayProject
+        v-for="project in showcaseProjects"
+        :key="project.suuid"
+        :title="``"
+        :category="`showcase`"
+        :project="project"
+        :shortInfo="
+          project.categories.find((category) => category.idCode === 'showcase').shortInfo
+        "
+      />
+    </div>
+
   </div>
 </template>
